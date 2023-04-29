@@ -1,0 +1,183 @@
+- title: mummification
+  era: ii
+  discipline: culture
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: B0.130
+  top:
+    discipline: politics
+    actions: [prayer]
+  bottom:
+    discipline: culture
+    actions: [abstraction]
+  caption: Chinchorro of the Atacama desert, 7 kya
+  body: >
+    The burial of the dead as if they were still living is ubiquitous in the
+    archaeological record. Dead leaders were bizarrely provided food, tools,
+    and weapons. Perhaps the hallucinated commands of the dead king were
+    necessary for an ancient society to function.
+
+- title: temple
+  era: ii
+  discipline: culture
+  eurekas: [prayer]
+  requirements: [4energy]
+  id: B0.131
+  top:
+    discipline: industry
+    actions: [domesticate, cultivate>3footprint]
+  bottom:
+    discipline: culture
+    actions: [preach, cultivate>3footprint]
+  caption: Göbekli Tepe, 12 kya
+  body: >
+    The oldest known temple, found in Turkey, seems to predate agriculture and
+    may have been used seasonally by hunter-gatherers for animal sacrifice.
+
+- title: shifting agriculture
+  era: ii
+  discipline: culture
+  eurekas: [3footprint]
+  requirements: [workanimal]
+  id: B0.132
+  top:
+    discipline: politics
+    actions: [domesticate, cultivate>4footprint]
+  bottom:
+    discipline: culture
+    actions: [4footprint, domesticate, cultivate]
+  caption: Olmec farmers, 3 kya
+  body: >
+    Forest cleared by slash and burn is farmed until its fertility drops, and
+    then left fallow long enough for the forest to return. This is called Dredd
+    in India, Ladang in Indonesia, Milpa in Mesoamerica and Jhumming in North
+    East India.
+
+- title: poultry
+  era: ii
+  discipline: culture
+  eurekas: [2footprint]
+  requirements: [menopause]
+  id: B0.133
+  top:
+    discipline: industry
+    actions: [domesticate, cultivate>3footprint]
+  bottom:
+    discipline: culture
+    actions: [domesticate, cultivate>3footprint]
+  caption: Dabenkeng complex of Taiwan, 3.6 kya
+  body: >
+    Domestic chickens are descended from the waterfowl of SE Asia. They were
+    spread by Polynesians over the world, including to the New World centuries
+    before Columbus.
+
+- title: ceramic kilns
+  era: ii
+  discipline: culture
+  eurekas: [2metallurgy]
+  requirements: [4energy]
+  id: B0.134
+  top:
+    discipline: politics
+    actions: [prospect, prospectmetal>3metallurgy]
+  bottom:
+    discipline: culture
+    actions: [artisan, prospect, prospectmetal>3metallurgy]
+  caption: Hurrian, 3.3 kya
+  body: >
+    The agricultural Hurrians of northern Mesopotamia were master ceramists,
+    and their wheel-made Khabur and Nuzi pottery was highly valued as far
+    afield as the Egyptian New Kingdom.
+
+- title: breadmaking
+  era: ii
+  discipline: culture
+  eurekas: [abstraction]
+  requirements: [workanimal]
+  id: B0.136
+  top:
+    discipline: politics
+    actions: [5energy, cultivate>4footprint]
+  bottom:
+    discipline: culture
+    actions: [5energy, artisan, trade>1maritime]
+  caption: Minoan thalassocracy, 5 kya
+  body: >
+    Flatbread is first known from proto-Natufian hunter-gatherers (14 kya). It
+    was made from wild wheat, wild barley and plant roots. Leavened bread is
+    found in most neolithic civilizations.
+
+- title: goat herding
+  era: ii
+  discipline: culture
+  eurekas: [2footprint]
+  requirements: [menopause]
+  id: B0.137
+  top:
+    discipline: industry
+    actions: [domesticate, trade>4energy]
+  bottom:
+    discipline: culture
+    actions: [domesticate, cultivate>3footprint]
+  caption: Afanasevo pastoral farmers, 5.3 kya
+  body: >
+    Shortly after the dawn of agriculture, farmers in the Near East started
+    keeping small herds of ibexes for their milk, meat, dung (for fuel), as
+    well as hair, bone, skin, and sinew for clothing and dwellings.
+
+- title: potter's wheel
+  era: ii
+  discipline: culture
+  eurekas: [2footprint]
+  requirements: [4energy]
+  id: B0.138
+  top:
+    discipline: industry
+    actions: [5energy, artisan, prospect>5energy]
+  bottom:
+    discipline: culture
+    actions: [artisan, abstraction, art]
+  caption: Indus Valley Civilizations, 5.5 kya
+  body: >
+    Wheel-thrown pottery supplanted pots made by coiling. The original slow
+    wheel was then replaced by a flywheel, allowing centrifugal force to mass
+    produce pots.
+
+- title: smoking
+  era: ii
+  discipline: culture
+  eurekas: [prayer]
+  requirements: [4energy]
+  id: B0.139
+  top:
+    discipline: industry
+    actions: [cultivate, preach>chaos]
+  bottom:
+    discipline: culture
+    actions: [preach, cultivate>3footprint]
+  caption: Mayan pipe, 2.3 kya
+  body: >
+    The strange human habit to willingly breathe smoke likely originated with
+    the shamanic use of cannabis, opium, or tobacco. The hallucinations may
+    have been the first imaginings and its persistence today reflects the
+    appeal of ancient modes of decision-making.
+
+- title: boardgames
+  era: ii
+  discipline: culture
+  eurekas: [invent]
+  requirements: [menopause]
+  id: B0.140
+  top:
+    discipline: politics
+    actions: [artisan, war]
+  bottom:
+    discipline: culture
+    actions: [abstraction, 3information]
+  caption: Jiroft culture backgammon, 5.1 kya
+  body: >
+    The competitive re-enactment of reality emphasizing skills of abstraction
+    in a framework of rules may have been the bridge to the social
+    understanding of written maps and definitions.
+
+

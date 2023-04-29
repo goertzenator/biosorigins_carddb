@@ -1,0 +1,37 @@
+- title: outrigger
+  era: ii
+  discipline: politics
+  eurekas: [3maritime]
+  requirements: [4energy]
+  id: B0.121
+  top:
+    discipline: industry
+    actions: [artisan,trade,enslave,3maritime]
+  bottom:
+    discipline: politics
+    actions: [war,enslave>3maritime]
+  caption: Lapita Pacific seafarers, 2.8.kya
+  body: >
+    Double-outrigger sailing canoes made the Austronesions the greatest
+    seafarers for over 1000 years. Spreading from the Chinese mainland, these
+    early Polynesians reached Samoa by 1200 BCE, Hawaii & Madagascar by 800 CE,
+    and New Zealand by 1000 CE.
+
+
+- title: longship
+  era: ii
+  discipline: politics
+  eurekas: [3maritime]
+  requirements: [4energy]
+  id: B0.122
+  top:
+    discipline: industry
+    actions: [artisan,trade,enslave,3maritime]
+  bottom:
+    discipline: politics
+    actions: [war,war>3maritime]
+  caption: Ertobølle Nordic, 7 kya
+  body: >
+    Painted paddles recovered from a Danish fjord suggests the predecessor to
+    the famed Viking longships were galleys built by coastal fisher-farmers of
+    the Ertebølle culture.

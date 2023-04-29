@@ -1,0 +1,199 @@
+- title: fishing net
+  era: i
+  discipline: culture
+  eurekas: [1maritime]
+  requirements: [menopause]
+  id: B0.099
+  top:
+    discipline: politics
+    actions: [artisan,2footprint]
+  bottom:
+    discipline: culture
+    actions: [encephalize]
+  caption: Tianyuan man, 40 kya
+  body: >
+    The earliest string-making and knitting techniques were likely for catching
+    fish, Isotope analysis of a Chinese skeleton show freshwater fish made up a
+    large part of the diet.
+
+- title: venus figurines
+  era: i
+  discipline: culture
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: B0.100
+  top:
+    discipline: politics
+    actions: [preach,art]
+  bottom:
+    discipline: culture
+    actions: [preach>chaos]
+  caption: Gravettian venus, 28 kya
+  body: >
+    Handheld figurines with exaggerated female features combined with
+    diminutive limbs and featureless faces. The consistency of design and gender
+    over a huge Eurasian range suggests a purose tied to the formation of human
+    consciousness and language.
+
+- title: body paint
+  era: i
+  discipline: culture
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: B0.101
+  top:
+    discipline: politics
+    actions: [encephalize,enslave,war>3information]
+  bottom:
+    discipline: culture
+    actions: [preach>chaos]
+  caption: Neanderthal, 250 kya
+  body: >
+    An ancient "Audio-Visual Intimindation Display" (AVID) or courtship display
+    may have included body paint of red ocher together with rhythmic singing,
+    dancing, and drumming.
+
+- title: totems
+  era: i
+  discipline: culture
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: B0.102
+  top:
+    discipline: politics
+    actions: [encephalize,enslave,war>2information]
+  bottom:
+    discipline: culture
+    actions: [preach>chaos]
+  caption: Folsom tradition, 11 kya
+  body: >
+    Totem poles are monuments read from bottom to top and relate a story using
+    carvings of tutelary deities (personal supernatural gods emblematic of a
+    particular lineage or tribe).
+
+- title: jewelry
+  era: i
+  discipline: culture
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: B0.103
+  top:
+    discipline: politics
+    actions: [art,preach,exogamy]
+  bottom:
+    discipline: culture
+    actions: [2metallurgy]
+  caption: Bachokiran ornament, 43 kya
+  body: >
+    Shell beads with man-made holes have been found in a wide variety of
+    locations dating to the cultural revolution in Europe. Then, as now,
+    jewelry may have been worn to indicate status or mating strategies.
+
+- title: basket weaving
+  era: i
+  discipline: culture
+  eurekas: [2footprint]
+  requirements: [menopause]
+  id: B0.104
+  top:
+    discipline: industry
+    actions: [art,domesticate]
+  bottom:
+    discipline: culture
+    actions: [encephalize,cultivate>3footprint]
+  caption: Thai Tradition, 15 kya
+  body: >
+    Woven containers made of grasses, vines, or cane and lined with clay,
+    predate pottery. They require artisans, who attained their skill either by
+    natural selection, like spiders or weaver birds, or because they were able
+    to visualize the finished product.
+
+- title: twine
+  era: i
+  discipline: culture
+  eurekas: [4energy]
+  requirements: [menopause]
+  id: B0.105
+  top:
+    discipline: industry
+    actions: [art,artisan,1maritime]
+  bottom:
+    discipline: culture
+    actions: [encephalize,3information]
+  caption: Norte Chico quipu, 5.5 kya
+  body: >
+    Twisting of grass and the technology of knots enables inventions from
+    pendants to rafts. In Andean and Hawaiian cultures, knots in strings were
+    used to record data for taxes and calendars.
+
+- title: whittling
+  era: i
+  discipline: culture
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: B0.106
+  top:
+    discipline: politics
+    actions: [art,encephalize,4energy]
+  bottom:
+    discipline: culture
+    actions: [2information]
+  caption: H. heidelbergensis javelin, 380 kya
+  body: >
+    The schöningen javelins are the first known wood tools, and the first known
+    thrown projectiles.
+
+- title: fitted clothes
+  era: i
+  discipline: culture
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: B0.107
+  top:
+    discipline: industry
+    actions: [art,artisan]
+  bottom:
+    discipline: culture
+    actions: [encephalize,4energy]
+  caption: Solutrean culture, 21 kya
+  body: >
+    Genetic studies of lice shows clothing was worn 110 kya. But tailored
+    clothing seems to have been delayed until the invention of pressure
+    flaking: a precision technique able to produce sewing needles from flint or bone.
+
+- title: dog domestication
+  era: i
+  discipline: culture
+  eurekas: [2footprint]
+  requirements: [menopause]
+  id: B0.108
+  top:
+    discipline: politics
+    actions: [domesticate,enslave]
+  bottom:
+    discipline: culture
+    actions: [domesticate]
+  caption: Finno-Ugrian taiga hunter-gatherers, 15 kya
+  body: >
+    Commands given to canine companians could have preceded inter-human
+    commands. DNA analysis suggest two domestication events, one in Europe and
+    one in Asia.
+
+- title: cave painting
+  era: i
+  discipline: culture
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: B0.109
+  top:
+    discipline: industry
+    actions: [art]
+  bottom:
+    discipline: culture
+    actions: [encephalize>chaos]
+  caption: Sundaland, 40 kya
+  body: >
+    This art was not meant to be viewed, rather the process of creating and
+    reworking over many generations seemed to be used for shamanic concept
+    formation. Animals rather than humans are depicted, in a distinctive style
+    duplicated from Europe to Indonesia.

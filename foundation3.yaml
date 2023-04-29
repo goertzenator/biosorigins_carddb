@@ -1,0 +1,458 @@
+
+- title: romantic love
+  era: iii
+  religious: false
+  events: [crisis,crowd disease]
+  event_name: cholera
+  eurekas: [prayer]
+  requirements: []
+  id: BO.045
+  top:
+    discipline: culture
+    actions: [spread, exogamy]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [spread, art]
+    dissent: false
+  caption: Troubadour Jaufré Rudel, 1147 CE
+  body: >
+    The troubadours exemplified a new Western concept of love: an infatuation
+    that doesn't involve children, money, dynasties or even any kind of
+    reciprocation.
+
+
+- title: guilds
+  era: iii
+  religious: false
+  events: [forestation,crowd disease]
+  event_name: measles
+  eurekas: [5maritime]
+  requirements: [5energy]
+  id: BO.046
+  top:
+    discipline: industry
+    actions: [artisan, library,prospect,trade>3maritime]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [spread,trade>4metallurgy,war>3maritime]
+    dissent: true
+  caption: Holy Roman Empire, 1156 CE
+  body: >
+    A monopoly of craftsmen granted a royal letters patent to enforce the flow
+    of trade to their self-employed members, and to retain ownership of tools
+    and the supply of materials.
+
+- title: foreign queen
+  era: iii
+  religious: false
+  events: [deforestation,crowd disease]
+  event_name: typhus
+  eurekas: [4information]
+  requirements: []
+  id: BO.047
+  top:
+    discipline: industry
+    actions: [2maritime,spread,exogamy]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [exogamy,war>3maritime]
+    dissent: true
+  caption: Jōmon Dogū of Japan, 1000 BCE
+  body: >
+    Females who married to power straddled their natal and marital cultures.
+    Such alien outsiders facilitated cultural diffusion as intercessors and
+    patrons.
+
+- title: hearth tax
+  era: iii
+  religious: false
+  events: [crisis,catastrophe]
+  event_name: shaanxi earthquake
+  eurekas: [2maritime]
+  requirements: []
+  id: BO.048
+  top:
+    discipline: industry
+    actions: [exogamy]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [spread,war>3maritime]
+    dissent: true
+  caption: Darius I of Persia, 509 BCE
+  body: >
+    Regimented systems for forced tributes from each family unit. This was used
+    to fund the great palace complex at Persepolis.
+
+- title: confucian feudalism
+  era: iii
+  religious: false
+  events: [crisis,leftist]
+  event_name: leftist mazdakian
+  eurekas: [3metallurgy, purge]
+  requirements: []
+  id: BO.049
+  top:
+    discipline: culture
+    actions: [enslave, racism, war]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [enslave, cultivate, war>3maritime]
+    dissent: true
+  caption: Confucius of the Zhou dynasty, 501 BCE
+  body: >
+    Confucianism maintained a feudal hierarchy by demanding a morality of
+    obedience and service to a state and its educated elite. Both state and
+    family rituals were emphasized.
+
+- title: logic
+  era: iii
+  religious: false
+  events: [deforestation, pollution]
+  event_name: overgrazing erosion
+  eurekas: [6information]
+  requirements: []
+  id: BO.050
+  top:
+    discipline: culture
+    actions: [abstraction, artisan, trade]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [abstraction, library, science]
+    dissent: false
+  caption: Confucius of the Zhou dynasty, 501 BCE
+  body: >
+    Humans are the only known species to reach conclusions objectively be means
+    of concepts derived from sensory evidence. these follow non-contradictory
+    rules discovered by Aristotle.
+
+- title: buddhist holism
+  era: iii
+  religious: true
+  events: [crisis, catastrophe]
+  event_name: sigsbee clathrate
+  eurekas: [prayer]
+  requirements: []
+  id: BO.051
+  top:
+    discipline: culture
+    actions: [prayer, spread, preach]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [abstraction, preach, prayer, spread]
+    dissent: false
+  caption: Siddhārtha Gautama, 483 BCE
+  body: >
+    Logical holism holds that nothing can exist or be known without knowing the
+    whole first. Since underlying reality is unknowable, the goal of science
+    becomes, not to explain, but to describe.
+
+- title: taoist harmony
+  era: iii
+  religious: true
+  events: [forestation, crowd disease]
+  event_name: yellow fever
+  eurekas: [prayer]
+  requirements: []
+  id: BO.052
+  top:
+    discipline: culture
+    actions: [spread, prayer>pseudoscience]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [war, preach, prayer>abstraction]
+    dissent: false
+  caption: Laozi of the Warring States, 471 BCE
+  body: >
+    Taoism emphasizes simplicity, naturalness, compassion, moderation and
+    humility. These attributes made the populace detached from society and
+    compliant to totalitarian control.
+
+- title: charter of rights
+  era: iii
+  religious: false
+  events: [forestation, crowd disease]
+  event_name: bubonic plague
+  eurekas: [demagogue]
+  requirements: []
+  id: BO.053
+  top:
+    discipline: culture
+    actions: [spread, artisan]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [spread, constitution]
+    dissent: false
+  caption: Magna Carta, 1215 CE
+  body: >
+    The Magna Carta emerged from a tax revolt between the English king and his
+    ruling nobles. It set a tradition that the people had rights that even the
+    king was obliged to respect.
+
+- title: hindu caste system
+  era: iii
+  religious: true
+  events: [crisis, pollution]
+  event_name: soil saltification
+  eurekas: [prayer]
+  requirements: []
+  id: BO.054
+  top:
+    discipline: culture
+    actions: [spread, prayer, preach, enslave]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [prayer, racism, enslave]
+    dissent: true
+  caption: Gupta Period of India, 319 CE
+  body: >
+    The Gupta established a strong central government with strict hereditary
+    stratifications, endogamy, taboos, and occupational exclusion of
+    untouchables.
+
+- title: metal coinage
+  era: iii
+  religious: false
+  events: [deforestation, zoonotic disease]
+  event_name: smallpox
+  eurekas: [2maritime]
+  requirements: [3information]
+  id: BO.055
+  top:
+    discipline: industry
+    actions: [abstraction, artisan, trade>4metallurgy]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [spread, prospect, trade>4maritime]
+    dissent: false
+  caption: Indian Karshapana, 600 BCE
+  body: >
+    Early systems of tribute and trade by divine decree required no money. But
+    metal coins facilitated concepts such as trade, savings & debt, profit &
+    loss, and gambling.
+
+
+- title: democracy
+  era: iii
+  religious: false
+  events: [forestation, zoonotic disease]
+  event_name: cowpox
+  eurekas: [5information]
+  requirements: []
+  id: BO.056
+  top:
+    discipline: industry
+    actions: [abstraction, science, elect]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [spread,preach]
+    dissent: true
+  caption: Golden Liberty of Poland, 1505 CE
+  body: >
+    The direct democracy of ancient Athens allowed citizens to vote directly on
+    legislation and executive bills, Reforms included debt relief and limits
+    to land ownership.
+
+- title: christian missionaries
+  era: iii
+  religious: true
+  events: [warming, zoonotic disease]
+  event_name: bovine tuberculosis
+  eurekas: [prayer]
+  requirements: [3information]
+  id: BO.057
+  top:
+    discipline: culture
+    actions: [prayer, spread, preach]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [preach, prayer]
+    dissent: true
+  caption: St. Ignatius of Loyola, 1540 CE
+  body: >
+    The word "mission" dates from the Age of Discovery, when Jesuits sent
+    priests to proselytize the pagan natives of the New Worlds. They were
+    amazingly successful.
+
+- title: monasteries
+  era: iii
+  religious: true
+  events: [cooling, famine]
+  event_name: acidic dust 535 CE event
+  eurekas: [4information]
+  requirements: []
+  id: BO.058
+  top:
+    discipline: culture
+    actions: [preach, prayer>pseudoscience]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [spread,preach,prayer>abstraction]
+    dissent: false
+  caption: St. Benedict of Nursia, 526 CE
+  body: >
+    In between prayers, monks labored on their projects of writing, copying, or
+    decorating books. No other animal has cloistered colonies of
+    voluntarily-celibate bachelors.
+
+- title: astrology
+  era: iii
+  religious: true
+  events: [deforestation, famine]
+  event_name: drought
+  eurekas: [prayer]
+  requirements: [2information]
+  id: BO.059
+  top:
+    discipline: culture
+    actions: [2maritime,library,abstraction]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [3information,prayer]
+    dissent: false
+  caption: Únětice sky disk, 1600 BCE
+  body: >
+    Most civilizations studied the heavens to divine information about human
+    affairs and terrestrial events. This became the basis for calendars,
+    celestial navigation, and astronomy.
+
+- title: serfdom
+  era: iii
+  religious: false
+  events: [crisis, catastrophe]
+  event_name: aniakchak eruption
+  eurekas: [3footprint]
+  requirements: []
+  id: BO.060
+  top:
+    discipline: culture
+    actions: [exogamy,enslave,cultivate>3footprint]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [enslave,war>chaos]
+    dissent: true
+  caption: Ur-Nammu of Ur, 2095 BCE
+  body: >
+    A serf is a type of slave under forced agricultural servitude to a master
+    and whose productive labor legally belongs to the master.
+
+- title: muslim jihad
+  era: iii
+  religious: true
+  events: [crisis, rightist]
+  event_name: rightist caliphate
+  eurekas: [3metallurgy>purge]
+  requirements: []
+  id: BO.061
+  top:
+    discipline: culture
+    actions: [prayer, racism, enslave]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [1maritime, prayer, war]
+    dissent: false
+  caption: Spread of Islam, 632 CE
+  body: >
+    These religious conquests, equivalent to the Christian crusades, spread
+    Islam from the borders of India and China to the Pyrenees and the Atlantic.
+
+- title: zoroastrian prophets
+  era: iii
+  religious: true
+  events: [crisis, zoonotic disease]
+  event_name: encephalitis
+  eurekas: [prayer]
+  requirements: []
+  id: BO.062
+  top:
+    discipline: culture
+    actions: [racism, preach, prayer>pseudoscience]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [war,prayer>chaos]
+    dissent: false
+  caption: Prophet Zoroaster of Persia, 3 kya
+  body: >
+    Prophets originally had nothing to do with predicting the future, but were
+    merely men overflowing with speech and visions.
+
+- title: martyrdom
+  era: iii
+  religious: true
+  events: [crisis, pollution]
+  event_name: völker-wanderung
+  eurekas: [prayer]
+  requirements: []
+  id: BO.063
+  top:
+    discipline: culture
+    actions: [racism, prayer, war]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [war,prayer>chaos]
+    dissent: false
+  caption: Jeanne d'Arc, 1407 CE
+  body: >
+    The medieval theory that the highest good is to sacrifice oneself for the
+    sake of the supernatural.
+
+- title: universities
+  era: iii
+  religious: false
+  events: [cooling, famine]
+  event_name: little ice age
+  eurekas: [6information]
+  requirements: []
+  id: BO.064
+  top:
+    discipline: industry
+    actions: [artisan, science, library>abstraction]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [artisan, library, abstraction]
+    dissent: true
+  caption: St. Thomas Aquinas, 1274 CE
+  body: >
+    A medieval university is a corporation organized during the Middle Ages for
+    the purposes of higher learning.
+
+- title: banks
+  era: iii
+  religious: false
+  events: [warming, crowd disease]
+  event_name: ebola
+  eurekas: [6energy]
+  requirements: [3information]
+  id: BO.065
+  top:
+    discipline: industry
+    actions: [spread, trade>6information]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [trade, library, abstraction]
+    dissent: false
+  caption: Giovanni di Bicci de' Medici, 1397 CE
+  body: >
+    In Renaissance Italy, merchants and bankers held more respect than
+    warlords. Often royalty seized the banks to create a "central bank", with
+    government control over money supply.

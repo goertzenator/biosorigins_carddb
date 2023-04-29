@@ -1,0 +1,195 @@
+- title: yurt
+  era: i
+  discipline: politics
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: B0.088
+  top:
+    discipline: industry
+    actions: [2footprint,artisan]
+  bottom:
+    discipline: politics
+    actions: [art,war,4energy]
+  caption: Tibeto-Burmese peoples, 25 kya
+  body: >
+    Portable dwellings allow wandering herdsmen to carry their shelters with
+    them, such as the felt-covered wooden lattices used by the nomads of
+    central Asia.
+
+- title: bone dwelling
+  era: i
+  discipline: politics
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: B0.089
+  top:
+    discipline: industry
+    actions: [art,4energy]
+  bottom:
+    discipline: politics
+    actions: [artisan,2footprint]
+  caption: Magdalenian technocomplex, 14 kya
+  body: >
+    Some of the earliest swellings known are domes made of stacked and lashed
+    mammoth bones surrounding a hearth. External hearths, butchering areas,
+    middens, and flint workshops are often found nearby.
+
+- title: fishing weirs
+  era: i
+  discipline: politics
+  eurekas: [4energy]
+  requirements: [2footprint]
+  id: B0.090
+  top:
+    discipline: culture
+    actions: [encephalize]
+  bottom:
+    discipline: politics
+    actions: [artisan,domesticate>1maritime]
+  caption: Gunditjmare eel trapping, 8 kya
+  body: >
+    Internal repeated commands could have maintained a nonconscious lingual
+    person to an enduring task, such as a fish trap, which otherwise he would
+    lose interest in or forget about.
+
+- title: hafting
+  era: i
+  discipline: politics
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: B0.091
+  top:
+    discipline: industry
+    actions: [artisan,2metallurgy]
+  bottom:
+    discipline: politics
+    actions: [art,war>2metallurgy]
+  caption: Levallois spear points, 160 kya
+  body: >
+    Attaching a stone point to handle or shaft can greatly increase its damage
+    and range. Early hafted points were glued on.
+
+- title: skin boat
+  era: i
+  discipline: politics
+  eurekas: [1maritime]
+  requirements: [2footprint]
+  id: B0.092
+  top:
+    discipline: politics
+    actions: [artisan, war>2metallurgy]
+  bottom:
+    discipline: culture
+    actions: [trade,encephalize]
+  caption: Saqqaq marine mammal hunters, 5 kya
+  body: >
+    This watercraft uses animal hides, which were dried, specially treated, and
+    stretched over a wood or bone frame. Such lightweight boats enabled Arctic
+    peoples to hunt marine mammals.
+
+- title: atlatl
+  era: i
+  discipline: politics
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: B0.093
+  top:
+    discipline: industry
+    actions: [artisan, war>2metallurgy]
+  bottom:
+    discipline: politics
+    actions: [art,war>2metallurgy]
+  caption: La Paquette industry, 20 kya
+  body: >
+    This spear-throwing lever, invented during the cultural revolution, greatly
+    increased the power, speed, accuracy, and distance of a thrown spear.
+
+- title: permafrost meat storage
+  era: i
+  discipline: politics
+  eurekas: [4energy]
+  requirements: [menopause]
+  id: B0.094
+  top:
+    discipline: industry
+    actions: [2footprint,encephalize]
+  bottom:
+    discipline: politics
+    actions: [artisan,trade>2footprint]
+  caption: Clovis mammoth hunters, 13.5 kya
+  body: >
+    Prehistoric cold storage was the first step to a centralized food-sharing
+    society.
+
+- title: pit fired oven
+  era: i
+  discipline: politics
+  eurekas: [2metallurgy]
+  requirements: [4energy]
+  id: B0.095
+  top:
+    discipline: politics
+    actions: [5energy,artisan,prospectmetal>3metallurgy]
+  bottom:
+    discipline: culture
+    actions: [prospectmetal>3metallurgy]
+  caption: Ahrensburg culture, 13 kya
+  body: >
+    Earthen pits lined with stones and warmed with hot coals were used to cook
+    mammoth meat.
+
+- title: bone carving
+  era: i
+  discipline: politics
+  eurekas: [2information]
+  requirements: [menopause]
+  id: B0.096
+  top:
+    discipline: politics
+    actions: [4energy,art]
+  bottom:
+    discipline: culture
+    actions: [artisan,encephalize]
+  caption: Semliki harpoon, 88 kya
+  body: >
+    Harpoon points made by grinding bone indicate an advanced culture of giant
+    catfish hunters in the Congo. This became a lost art, as it is not until
+    after 40,000 years that another artifact of worked bone was found.
+
+
+- title: tally sticks
+  era: i
+  discipline: politics
+  eurekas: [2information]
+  requirements: [menopause]
+  id: B0.097
+  top:
+    discipline: industry
+    actions: [3information,abstraction]
+  bottom:
+    discipline: politics
+    actions: [1maritime,abstraction]
+  caption: Aterian culture, 20 kya
+  body: >
+    The Ishango Bone is a baboon fibula with an inset of sharp quartz for
+    inscribing, and notched perhaps as an ancient memory aid device. It dates
+    from the cultural revolution.
+
+- title: hallucinogens
+  era: i
+  discipline: politics
+  eurekas: [prayers]
+  requirements: [menopause]
+  id: B0.098
+  top:
+    discipline: industry
+    actions: [prayer>chaos]
+  bottom:
+    discipline: politics
+    actions: [art>chaos,preach>chaos]
+  caption: Shamanic Chavin culture, 2.2 kya
+  body: >
+    The bizarre human fascination with psychotropic drugs may stem from a
+    period when the previous decision-marking mental architecture was breaking
+    down, and drugs were a desperate attempt to rekindle this state of mind.
+    The first fantasies may have been hallucinations.

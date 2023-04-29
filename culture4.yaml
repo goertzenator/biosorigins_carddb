@@ -1,0 +1,167 @@
+- title: supermarkets
+  era: iv
+  discipline: culture
+  eurekas: [8footprint, cull2]
+  requirements: [4footprint]
+  id: B0.188
+  top:
+    discipline: culture
+    actions: [spread,trade,prospect>8footprint]
+  bottom:
+    discipline: industry
+    actions: [prospectluxury,artisan,trade>5maritime]
+  caption: Sam Walton, 1962
+  body: >
+    The idea of high variety stores with self-service, separate product
+    departments, discount pricing, marketing and volume selling is rapidly
+    expanding the economy of every nation in the world, no matter how poor.
+
+- title: pc software
+  era: iv
+  discipline: culture
+  eurekas: [6information]
+  requirements: [oil,biofuel,uranium]
+  id: B0.189
+  top:
+    discipline: culture
+    actions: [invent,library]
+  bottom:
+    discipline: industry
+    actions: [artisan, trade>6information]
+  caption: Bill Gates of Microsoft, 1975
+  body: >
+    Software requires the concept of a general-purpose processor and computer
+    memory. The IBM company was founded around software in the form of
+    Hollerith punched cards.
+
+- title: world wide web
+  era: iv
+  discipline: culture
+  eurekas: [6information]
+  requirements: [oil,biofuel,uranium]
+  id: B0.190
+  top:
+    discipline: culture
+    actions: [6information,pseudoscience,trade]
+  bottom:
+    discipline: industry
+    actions: [library,artisan,trade]
+  caption: Tim Berners-Lee of CERN, 1991
+  body: >
+    Central to the Information Age is the omnipresent information space where
+    documents are interlinked by hypertext links and browser software. An
+    unregulated internet is hated by totalitarian central planners.
+
+- title: nitrate chemicals
+  era: iv
+  discipline: culture
+  eurekas: [8footprint, cull2]
+  requirements: [3metallurgy]
+  id: B0.191
+  top:
+    discipline: culture
+    actions: [6footprint,artisan,trade>8energy]
+  bottom:
+    discipline: politics
+    actions: [6metallurgy,prospect,war>7energy]
+  caption: Liebig Lab, 1832
+  body: >
+    German chemists invented organic chemistry, which had immediate
+    applications in the fertilizer industry. This culminated in the 1910
+    Haber-Bosch process, in which factory nitrogen quadrupled both crop yields
+    and the human population.
+
+- title: bioengineered crops
+  era: iv
+  discipline: culture
+  eurekas: [8footprint, cull3]
+  requirements: [4immunology]
+  id: B0.192
+  top:
+    discipline: culture
+    actions: [8footprint,artisan,trade>8immunology]
+  bottom:
+    discipline: politics
+    actions: [spread,8immunology,library, trade]
+  caption: Kary Mullis of Cetus Corp, 1983
+  body: >
+    The genetic modification of crops to improve agricultural production and
+    processing has been going on at least since the proto-Olmecs created corn
+    from teosinte.
+
+- title: entertainment
+  era: iv
+  discipline: culture
+  eurekas: [demagogue]
+  requirements: []
+  id: B0.193
+  top:
+    discipline: industry
+    actions: [artisan, trade>5maritime]
+  bottom:
+    discipline: culture
+    actions: [prospectmetal,artisan,prayer,pseudoscience]
+  caption: Walt Disney, 1937
+  body: >
+    From the Löwenmensch to Mickey Mouse, verbal humans often think of the
+    natural world in social words. Because such metaphoric thinking was a
+    valuable innovation, anthropomorphs became adaptedly linked to humor and
+    happiness.
+
+
+- title: music industry
+  era: iv
+  discipline: culture
+  eurekas: [demagogue]
+  requirements: []
+  id: B0.194
+  top:
+    discipline: culture
+    actions: [spread,prayer,pseudoscience]
+  bottom:
+    discipline: industry
+    actions: [artisan, trade>5maritime]
+  caption: Goddard Lieberson of Broadway/Columbia Records, 1956
+  body: >
+    Unlike the other arts, music reaches emotions directly without
+    concept-formation. No other emotional species reacts to music this way,
+    indicating music has a primal role in the origins of higher-order
+    consciousness.
+
+- title: sports cartel
+  era: iv
+  discipline: culture
+  eurekas: [demagogue]
+  requirements: []
+  id: B0.195
+  top:
+    discipline: culture
+    actions: [spread,prayer,artisan]
+  bottom:
+    discipline: industry
+    actions: [art,prayer]
+  caption: NFL-AFL Commissioner Pete Rozelle, 1960
+  body: >
+    Many animals employ male-to-male competitions during sexual selection. A
+    human spectator, for instance at the annual Super Bowl, has the unique
+    ability to have empathy with the contestants, and rejoice as if their
+    accomplishments were his/her own.
+
+- title: fashion
+  era: iv
+  discipline: culture
+  eurekas: [demagogue]
+  requirements: []
+  id: B0.196
+  top:
+    discipline: culture
+    actions: [prospectmetal,artisan,preach,prayer]
+  bottom:
+    discipline: industry
+    actions: [spread,art,artisan,trade>5maritime]
+  caption: Coco Chanel, 1935
+  body: >
+    Although fashion may have originated as status adornment, group
+    identification, or nuptial bonding, it has developed into an important
+    means of individualistic self-expression and self-identity.
+

@@ -1,0 +1,417 @@
+
+- title: personal names
+  era: i
+  religious: false
+  events: [cooling,catastrophe]
+  event_name: hiawatha impact
+  eurekas: [prayer]
+  requirements: [2information]
+  id: BO.005
+  top:
+    discipline: industry
+    actions: [artisan]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [exogamy]
+    dissent: false
+  caption: Proto-Aurignacian hand stencil, 41 kya
+  body: >
+    “Once a tribe member has a proper name, he can in a sense be recreated in
+    his absence.” -Julian Jaynes
+
+
+- title: dreams
+  era: i
+  religious: true
+  events: [warming,famine]
+  event_name: dansgaard-oeschger event
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: BO.006
+  top:
+    discipline: industry
+    actions: [prayer>chaos]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [preach>chaos,art>chaos]
+    dissent: false
+  caption: The Sorcerer of Trois-Frères cave, 13 kya
+  body: >
+    Dreams result from the data reduction of our nightly leftovers. Unlike
+    other animals, humans remember their dreams. The first fantasies and
+    imaginations may have been dream-based.
+
+
+- title: potlatch
+  era: i
+  religious: true
+  events: [cooling,catastrophe]
+  event_name: yellowstone eruption
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: BO.007
+  top:
+    discipline: industry
+    actions: [trade]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [art]
+    dissent: true
+  caption: Kwakiutl of Vancouver, 3 kya
+  body: >
+    Elaborate gift-giving ritual feasts in which gift-givers seek to out-give
+    their competitors so as to capture important political, kinship and
+    religious roles.
+
+- title: ritual speech
+  era: i
+  religious: true
+  events: [cooling,catastrophe]
+  event_name: zhamanshin impact
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: BO.008
+  top:
+    discipline: culture
+    actions: [encephalize]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [prayer>chaos]
+    dissent: false
+  caption: Whadjuk/Noongar legends, 40 kya
+  body: >
+    Because words are cheap and untrustworthy, the basic mechanism for
+    establishing trust in symbolic cultural facts is collective ritual.
+
+
+- title: grave goods
+  era: i
+  religious: true
+  events: [deforestation,zoonotic disease]
+  event_name: hookworm parasite
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: BO.009
+  top:
+    discipline: industry
+    actions: [encephalize]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [art]
+    dissent: true
+  caption: Oldest grave goods, Qafzeh, 92 kya
+  body: >
+      Rather than an imagined personal afterlife, graves and offerings likely
+      acted as mnemonic aids, to reconstruct the hallucinated commands and
+      admonishments of the dead.
+
+- title: humor
+  era: i
+  religious: false
+  events: [forestation,crowd disease]
+  event_name: dysentery
+  eurekas: [abstraction]
+  requirements: [menopause]
+  id: BO.010
+  top:
+    discipline: culture
+    actions: [encephalize]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [art]
+    dissent: false
+  caption: Nahal Hemar masks, 9 kya
+  body: >
+    Language may have originated with the gestural and vocal pantomime of
+    incidents or scenarios. The cognitive fluidity of words enabled the
+    "appropriate incongruities" essential for jokes.
+
+- title: commands
+  era: i
+  religious: false
+  events: [warming,crowd disease]
+  event_name: common cold
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: BO.011
+  top:
+    discipline: culture
+    actions: [encephalize]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [enslave,encephalize]
+    dissent: true
+  caption: Kebarian microliths, 12 kya
+  body: >
+    Warning calls may have the basis for commands that can modify men's actions
+    themselves. Selective pressure would have favored a hunting group
+    controlled by vocal commands.
+
+- title: pyrotechnology
+  era: i
+  religious: false
+  events: [warming,catastrophe]
+  event_name: australasian strewnfield
+  eurekas: [4energy]
+  requirements: []
+  id: BO.012
+  top:
+    discipline: culture
+    actions: [preach,2metallurgy]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [spread,prospect]
+    dissent: false
+  caption: Neanderthal, 50 kya
+  body: >
+    Fire had been incidentally used for a million years, but the Neanderthal
+    were the first to have consistent use of this technology and may have been
+    able to start fires.
+
+- title: groom & gossip
+  era: i
+  religious: false
+  events: [cooling,famine]
+  event_name: younger dryas
+  eurekas: [encephalize]
+  requirements: []
+  id: BO.013
+  top:
+    discipline: culture
+    actions: [2immunology]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [art]
+    dissent: true
+  caption: H. erectus, 1900 kya
+  body: >
+    Gossip originally served the same purpose as grooming, by allowing social
+    individuals to service their relationships and so maintain their alliances.
+
+- title: musilanguage
+  era: i
+  religious: true
+  events: [warming,catastrophe]
+  event_name: ascension clathrate
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: BO.014
+  top:
+    discipline: culture
+    actions: [exogamy]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [art,preach]
+    dissent: false
+  caption: Bohunician flute, 55 kya
+  body: >
+    Both music and language may have derived from pre-lingual vocalizations.
+    Rhythmic, melodic, emotionally expressive vocal rituals bonded coalitions
+    and set up selection pressures for enhanced volitional control.
+
+- title: warning cries
+  era: i
+  religious: false
+  events: [cooling,zoonotic disease]
+  event_name: influenza
+  eurekas: [encephalize]
+  requirements: []
+  id: BO.015
+  top:
+    discipline: culture
+    actions: [spread]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [encephalize]
+    dissent: true
+  caption: Denisovan lookout, 200 kya
+  body: >
+    Lookouts modify their calls depending on if the threat comes from above
+    (eagles) or below (cats). This led to the first adjectives.
+
+- title: songs
+  era: i
+  religious: true
+  events: [warming,zoonotic disease]
+  event_name: whipworm parasite
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: BO.016
+  top:
+    discipline: culture
+    actions: [encephalize]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [preach,art]
+    dissent: false
+  caption: Arrernte aborigines, 30 kya
+  body: >
+    Unlike volitional speech, which emerges from Wernicke's area in the left
+    brain, the rhythm and rhyme of songs and poetry stem from corresponding
+    regions in the right brain.
+
+- title: motherese
+  era: i
+  religious: false
+  events: [deforestation,crowd disease]
+  event_name: malaria
+  eurekas: [2information]
+  requirements: [menopause]
+  id: BO.017
+  top:
+    discipline: culture
+    actions: [spread,encephalize]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [spread,art]
+    dissent: false
+  caption: Venus of Moravany, 22.8 kya
+  body: >
+    Communication between mother and child, extended to shared genetic
+    interests between siblings, may have led to vocal signals being shared and
+    evolving between generations.
+
+- title: fatherhood
+  era: i
+  religious: false
+  events: [forestation,zoonotic disease]
+  event_name: liver fluke parasite
+  eurekas: [prayer]
+  requirements: [menopause]
+  id: BO.018
+  top:
+    discipline: industry
+    actions: [spread,library]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [spread,artisan]
+    dissent: true
+  caption: Aurignacian Löwensmensch, 40 kya
+  body: >
+    Male Parental Investment (MPI) is the father's expenditure of time or
+    energy benefiting his offspring at a cost to his own fitness, and is thus a
+    form of reproductive success.
+
+- title: earworms
+  era: i
+  religious: false
+  events: [warming,catastrophe]
+  event_name: toba eruption
+  eurekas: [art]
+  requirements: [menopause]
+  id: BO.019
+  top:
+    discipline: culture
+    actions: [encephalize]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [art]
+    dissent: false
+  caption: Iberomaurusian culture, 25 kya
+  body: >
+    Catchy jingles that involuntarily replay through your mind long after
+    hearing them. Before persistent semantic memories, earworms were the only
+    way to spread ritualistic speech.
+
+- title: time sense
+  era: i
+  religious: false
+  events: [forestation,famine]
+  event_name: late pleistoscene extinctions
+  eurekas: [abstraction]
+  requirements: [menopause]
+  id: BO.020
+  top:
+    discipline: industry
+    actions: [artisan,2information]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [art>abstraction]
+    dissent: false
+  caption: Babylonian sundial, 3.5 kay
+  body: >
+    “One cannot think of time without spatializing it, in which what has
+    happened in time is excerpted and seen in a side-by-side
+    comparison.” -Julian Jaynes
+
+- title: mental lexicon
+  era: i
+  religious: false
+  events: [cooling,crowd disease]
+  event_name: tuberculosis
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: BO.021
+  top:
+    discipline: industry
+    actions: [abstraction>chaos]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [2information]
+    dissent: false
+  caption: Capsian culture, 11 kya
+  body: >
+    This type of memory includes how you activate, define, store, process, and
+    retrieve the syntax, metaphors, and definitions of words. You remember a
+    word if you relate it to yourself.
+
+- title: semantic memory
+  era: i
+  religious: false
+  events: [cooling,zoonotic disease]
+  event_name: roundworm parasite
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: BO.022
+  top:
+    discipline: industry
+    actions: [art,2information]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [abstraction>chaos]
+    dissent: false
+  caption: Oldest drawing, Blombos, 73 kya
+  body: >
+    Only human knowledge allows the encoding of inductively-acquired knowledge
+    about the world. Abstractions are stored and recalled in verbal format,
+    then visually reconstructed.
+
+- title: monogamy
+  era: i
+  religious: true
+  events: [warming,zoonotic disease]
+  event_name: tularemia
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: BO.023
+  top:
+    discipline: culture
+    actions: [artisan]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [spread,art]
+    dissent: false
+  caption: Epigravettian, 12 kya
+  body: >
+    A female's investment in altricial offspring makes a lifelong bond with her
+    valuable for a male. Pair-bonding enhances the survival of his offspring,
+    the driving force of natural selection.

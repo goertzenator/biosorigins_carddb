@@ -1,0 +1,163 @@
+- title: map making
+  era: iii
+  discipline: culture
+  eurekas: [3maritime, cull1]
+  requirements: [3information]
+  id: B0.160
+  top:
+    discipline: politics
+    actions: [library,abstraction, war>3maritime]
+  bottom:
+    discipline: culture
+    actions: [art,prospect,trade>4information]
+  caption: Anaximander of Greece, 500 BCE
+  body: >
+    To create or read a map requires visualizations of oneself and landmarks in
+    an invented metaphoric space. The uniquely-human ability to interpret
+    symbols as referents to the objective world is the basis of all conceptual
+    understanding.
+
+- title: surgery
+  era: iii
+  discipline: culture
+  eurekas: [4immunology, cull1]
+  requirements: [any]
+  id: B0.161
+  top:
+    discipline: culture
+    actions: [artisan,pseudoscience, 8immunology]
+  bottom:
+    discipline: politics
+    actions: [artisan,6immunology]
+  caption: Galen, 129-216 CE
+  body: >
+    Galen, the surgeon of the Roman gladiators, developed medical research,
+    anatomy, physiology, pathology, pharmacology, and neurology. His influence
+    was unchallenged in the West and East into the early modern age.
+
+- title: geometry
+  era: iii
+  discipline: culture
+  eurekas: [invent, cull1]
+  requirements: [2information]
+  id: B0.162
+  top:
+    discipline: industry
+    actions: [science,abstraction>6information]
+  bottom:
+    discipline: culture
+    actions: [pseudoscience, abstraction]
+  caption: Euclid of Alexandria 283 BCE
+  body: >
+    Mathematics is the science based upon theorems logically constructed from
+    axioms, with a still controversial relevance to the objective world. The
+    Greek discoveries, such as the Pythagorean theorem, would be unrivaled for
+    2 millennia.
+
+- title: manure fertilization
+  era: iii
+  discipline: culture
+  eurekas: [4footprint, cull1]
+  requirements: [2footprint]
+  id: B0.163
+  top:
+    discipline: culture
+    actions: [domesticate, cultivate>6footprint]
+  bottom:
+    discipline: politics
+    actions: [cultivate, 4footprint]
+  caption: Chinese Zhou dynasty, 500 BCE
+  body: >
+    Feudalism in the Zhou dynasty featured intensive agriculture fertilized by
+    manure from farm animals, as directed by the government and ruling
+    nobility.
+
+- title: horse collar
+  era: iii
+  discipline: culture
+  eurekas: [5energy, cull1]
+  requirements: [workanimal]
+  id: B0.164
+  top:
+    discipline: industry
+    actions: [domesticate, 3metallurgy]
+  bottom:
+    discipline: culture
+    actions: [artisan, domesticate, 4footprint]
+  caption: Samoyed reindeer herders, 1000 BCE
+  body: >
+    A problem with using plow or wagon animals was that simple throat-girth
+    harnesses constricted the animal's neck if it pulled too strongly, Collars
+    that distributed the load so as not to choke the animal revolutionized
+    animal husbandry.
+
+- title: celestial navigation
+  era: iii
+  discipline: culture
+  eurekas: [3maritime, cull1]
+  requirements: [3information]
+  id: B0.165
+  top:
+    discipline: culture
+    actions: [abstraction, trade>5information]
+  bottom:
+    discipline: industry
+    actions: [science, trade>5maritime]
+  caption: Carthaginian explorers, 470 BCE
+  body: >
+    Maritime navigation using the stars allowed Hanno the Navigator to explore
+    the west coast of Africa.
+
+- title: terraced agriculture
+  era: iii
+  discipline: culture
+  eurekas: [4footprint, cull1]
+  requirements: [horticulture]
+  id: B0.166
+  top:
+    discipline: culture
+    actions: [artisan, cultivate,6footprint]
+  bottom:
+    discipline: politics
+    actions: [cultivate>6footprint]
+  caption: Pre-Inca Chavin culture, 1500 BCE
+  body: >
+    Building retaining walls on slopes impedes the hydrological cycle and
+    preserves fertile soils over denser clays. This expands cultivable land,
+    reduces erosion, and greatly improves the productivity of mountainous
+    regions such as Peru.
+
+- title: parchment scrolls
+  era: iii
+  discipline: culture
+  eurekas: [3information, cull1]
+  requirements: [2information]
+  id: B0.167
+  top:
+    discipline: culture
+    actions: [abstraction,4information]
+  bottom:
+    discipline: politics
+    actions: [abstraction,trade>4information]
+  caption: 6th dynasty of Egypt, 2400 BCE
+  body: >
+    Prepared untanned animal skins created the first scrolls, the earliest
+    format for books.
+
+- title: hay
+  era: iii
+  discipline: culture
+  eurekas: [5energy, cull1]
+  requirements: [any]
+  id: B0.168
+  top:
+    discipline: culture
+    actions: [cultivate>5footprint]
+  bottom:
+    discipline: industry
+    actions: [cultivate>6footprint]
+  caption: Celts, 500 CE
+  body: >
+    The cutting and drying of grasses for animal fodder allowed European
+    pastoralists to overwinter with their animals, thus opening up Europe for
+    agricultural colonization.

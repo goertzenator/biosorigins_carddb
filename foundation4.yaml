@@ -1,0 +1,476 @@
+- title: voodoo king
+  era: iv
+  religious: true
+  events: [forestation,rightist]
+  event_name: rightist bois caïman
+  eurekas: [prayer, purge]
+  requirements: []
+  id: BO.066
+  top:
+    discipline: culture
+    actions: [prayer, racism, war]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [enslave, preach>chaos]
+    dissent: true
+  caption: Papa Doc Duvalier of Haiti, 1963
+  body: >
+    Sorcery and folk magic can be exploited to create a reign of terror. Even
+    modern tyrants have used voodoo to create personality cults and death
+    squads.
+
+- title: united nations
+  era: iv
+  religious: false
+  events: [crisis, zoonotic disease]
+  event_name: hiv
+  eurekas: [demagogue]
+  requirements: []
+  id: BO.067
+  top:
+    discipline: culture
+    actions: [abstraction, exogamy>8footprint]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [4immunology, constitution, exogamy]
+    dissent: false
+  caption: Franklin D. Roosevelt, 1941
+  body: >
+    The stated goals of this multinational is maintaining international peace
+    and security, protecting human rights, delivering humanitarian aid, and
+    promoting sustainable development and upholding international law.
+
+- title: social conservatives
+  era: iv
+  religious: true
+  events: [crisis, rightist]
+  event_name: rightist porforista
+  eurekas: [6metallurgy, purge]
+  requirements: []
+  id: BO.068
+  top:
+    discipline: culture
+    actions: [war, racism, prayer>pseudoscience]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [preach, racism, coldwar]
+    dissent: true
+  caption: Mexico's one party system, 1929
+  body: >
+    A social system based upon a state religion, duty, family, and traditional
+    values with many controls on intellect, disunity, free speech, and protest.
+
+- title: televangelists
+  era: iv
+  religious: true
+  events: [crisis, rightist]
+  event_name: rightist hezbollahi
+  eurekas: [prayer, purge]
+  requirements: [4information]
+  id: BO.069
+  top:
+    discipline: culture
+    actions: [spread, war, prayer>preach]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [prayer, racism]
+    dissent: true
+  caption: Ayatollah Khomeini of Iran, 1979
+  body: >
+    Priests or ministers of a state religion often can promote their views with
+    exclusive access to state-controlled broadcast media such as the press,
+    radio, or TV.
+
+- title: charities
+  era: iv
+  religious: true
+  events: [deforestation, catastrophe]
+  event_name: krakatoa eruption
+  eurekas: [demagogue]
+  requirements: []
+  id: BO.070
+  top:
+    discipline: culture
+    actions: [spread, prayer>8immunology]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [preach, exogamy]
+    dissent: false
+  caption: Salvation Army, 1865
+  body: >
+    The protestant religion and international charity, organized in a military
+    structure, combines fire and brimstone preaching, aggressive missionarism,
+    and dedicated charitable work.
+
+- title: environmentalists
+  era: iv
+  religious: false
+  events: [forestation, crowd disease]
+  event_name: falciparum malaria
+  eurekas: [demagogue]
+  requirements: []
+  id: BO.071
+  top:
+    discipline: culture
+    actions: [coldwar, prayer>demagogue]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [preach, exogamy, abstraction]
+    dissent: false
+  caption: Author Rachel Carson, 1962
+  body: >
+    Originally meaning one concerned with the science of ecology and pollution
+    control. It now covers and anti-business or anti-technological agenda.
+
+- title: labor unions
+  era: iv
+  religious: false
+  events: [crisis, leftist]
+  event_name: leftist syndicalist
+  eurekas: [8maritime,purge]
+  requirements: []
+  id: BO.072
+  top:
+    discipline: culture
+    actions: [war, exogamy]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [exogamy, racism, war]
+    dissent: true
+  caption: Samuel Gompers of the AFL, 1886
+  body: >
+    Organized labor is a beneficial counterbalance to government power when it
+    does not violate its own founding ideology through collectivism.
+
+- title: the press
+  era: iv
+  religious: false
+  events: [deforestation, famine]
+  event_name: soil erosion
+  eurekas: [6information]
+  requirements: [4information]
+  id: BO.073
+  top:
+    discipline: culture
+    actions: [spread, coldwar, abstraction]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [6information, art, trade]
+    dissent: false
+  caption: Johannes Gutenberg, 1450
+  body: >
+    The invention of mechanical movable type vastly increased printing
+    activities across Europe and propelled revolutionary ideas both religious
+    and scientific.
+
+
+- title: middle class
+  era: iv
+  religious: false
+  events: [crisis, pollution]
+  event_name: euthrophication pollution
+  eurekas: [demagogue]
+  requirements: [4footprint]
+  id: BO.074
+  top:
+    discipline: industry
+    actions: [spread, science]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [artisan, library]
+    dissent: false
+  caption: William Levitt, inventor of suburbia, 1947
+  body: >
+    Today's most populous social class is working people voluntarily engaged in
+    the exchange of goods and services for mutual profit, either as customers,
+    employers, or employees.
+
+- title: populists
+  era: iv
+  religious: false
+  events: [crisis, leftist]
+  event_name: leftist maoist
+  eurekas: [6metallurgy,purge]
+  requirements: []
+  id: BO.075
+  top:
+    discipline: culture
+    actions: [spread, exogamy, elect]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [spread, war>8maritime]
+    dissent: true
+  caption: Chairman Mao Zedong, 1949
+  body: >
+    Populist leaders gain support by promising wealth redistribution and
+    vilifying the "elite", usually a minority group successful in business.
+
+- title: hospitals
+  era: iv
+  religious: false
+  events: [warming, pollution]
+  event_name: sewage pollution
+  eurekas: [8immunology]
+  requirements: []
+  id: BO.076
+  top:
+    discipline: industry
+    actions: [8immunology, spread, science]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [8immunology, abstraction]
+    dissent: false
+  caption: Florence Nightingale, 1860
+  body: >
+    Under private sponsorship, the modern hospital evolved from being basic
+    care centers for the sick into centers of medical innovation and places of
+    study for future doctors.
+
+- title: mercantilists
+  era: iv
+  religious: false
+  events: [crisis, zoonotic disease]
+  event_name: swine flu
+  eurekas: [8maritime]
+  requirements: [2maritime]
+  id: BO.077
+  top:
+    discipline: industry
+    actions: [4maritime, spread, abstraction]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [coldwar, enslave>8maritime]
+    dissent: false
+  caption: Dutch East India Co., 1602
+  body: >
+    Mercantilism attempts to create a new inflow of gold by exporting more than
+    importing, Adam Smith pointed out the fallacies in this common myth of a
+    "favorable trade balance".
+
+- title: communists
+  era: iv
+  religious: false
+  events: [crisis, leftist]
+  event_name: leftist socialist
+  eurekas: [6information, purge]
+  requirements: []
+  id: BO.078
+  top:
+    discipline: culture
+    actions: [coldwar, elect, prayer>pseudoscience]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [coldwar, enslave>8maritime]
+    dissent: true
+  caption: Joseph Stalin, 1934
+  body: >
+    Collectivism holds that personal success is at the expense of others and
+    this discourages every form of independence or individualism. Accordingly,
+    property rights are assigned or reassigned by political authorities.
+
+- title: standing army
+  era: iv
+  religious: false
+  events: [crisis, rightist]
+  event_name: rightist imperialist
+  eurekas: [6metallurgy, purge]
+  requirements: []
+  id: BO.079
+  top:
+    discipline: culture
+    actions: [spread,racism,war>5maritime]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [library, racism, war>6metallurgy]
+    dissent: true
+  caption: Empereur Napoléon Bonaparte, 1804
+  body: >
+    One of the valid functions of government is defense against foreign
+    invaders for the purpose of defending individual rights. This defense may
+    necessitate foreign intervention, for instance D-Day.
+
+- title: political lobbies
+  era: iv
+  religious: false
+  events: [crisis, catastrophe]
+  event_name: tambora eruption
+  eurekas: [demagogue]
+  requirements: []
+  id: BO.080
+  top:
+    discipline: culture
+    actions: [racism, exogamy, war>8maritime]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [prayer>exogamy,elect>6energy]
+    dissent: true
+  caption: President James Madison, 1788
+  body: >
+    Government by pressure groups is inevitable in any mixed economy combining
+    freedom and controls. Lobbying would be pointless if politicians were
+    regulated instead of citizens.
+
+- title: stock market
+  era: iv
+  religious: false
+  events: [deforestation, famine]
+  event_name: dustbowl
+  eurekas: [8maritime]
+  requirements: [3information]
+  id: BO.081
+  top:
+    discipline: culture
+    actions: [abstraction, trade>8energy]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [trade, 6information]
+    dissent: false
+  caption: Charles Merrill, 1914
+  body: >
+    Stocks are liquidable investments that both fund one's own business
+    activities, and quickly identify and penalize poor management and abuse.
+
+- title: supreme court
+  era: iv
+  religious: false
+  events: [warming, pollution]
+  event_name: global warming
+  eurekas: [demagogue]
+  requirements: []
+  id: BO.082
+  top:
+    discipline: industry
+    actions: [abstraction, constitution]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [constitution]
+    dissent: false
+  caption: Justice John Marshall, 1801
+  body: >
+    This institution insures that judicial decisions conform to founding
+    principles. This is vital to a republic, but unnecessary where all
+    decisions are decided by representative popular vote.
+
+- title: advertisers
+  era: iv
+  religious: false
+  events: [forestation, famine]
+  event_name: el niño monsoons
+  eurekas: [demagogue]
+  requirements: [4information]
+  id: BO.083
+  top:
+    discipline: industry
+    actions: [abstraction, 6information]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [abstraction, spread, coldwar]
+    dissent: false
+  caption: Leo Burnett, 1935
+  body: >
+    Publicizing competitive goods and services is a healthy sign of
+    independence and dynamic prosperity. But if regulated under centralized
+    planning, it can become state propaganda.
+
+- title: women's liberation
+  era: iv
+  religious: false
+  events: [forestation, pollution]
+  event_name: particulate pollution
+  eurekas: [demagogue]
+  requirements: []
+  id: BO.084
+  top:
+    discipline: culture
+    actions: [spread, artisan, elect]
+    dissent: true
+  bottom:
+    discipline: industry
+    actions: [artisan, constitution, abstraction]
+    dissent: false
+  caption: Olympe de Gouges, 1791
+  body: >
+    Using Enlightenment ideals, deputy of the French Revolution denounced
+    patriarchal norms that subjugated and marginalized women. However he died
+    in the revolution.
+
+- title: civil rights groups
+  era: iv
+  religious: false
+  events: [crisis, zoonotic disease]
+  event_name: bird flu
+  eurekas: [demagogue]
+  requirements: []
+  id: BO.085
+  top:
+    discipline: culture
+    actions: [spread, constitution, elect]
+    dissent: true
+  bottom:
+    discipline: industry
+    actions: [spread, exogamy, abstraction]
+    dissent: true
+  caption: W. E. B. Du Bois, 1909
+  body: >
+    Civil rights, such as the proposed Equal Rights Amendment of the USA,
+    protect an individual's freedom from infringement by others.
+
+- title: tabloids
+  era: iv
+  religious: true
+  events: [crisis, catastrophe]
+  event_name: valvidia earthquake
+  eurekas: [demagogue]
+  requirements: [4information]
+  id: BO.086
+  top:
+    discipline: culture
+    actions: [war,prayer>pseudoscience]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [racism, war>6footprint]
+    dissent: false
+  caption: Lila and De Witt Wallace, 1922
+  body: >
+    General interest magazines with colorful graphics such as Reader's Digest
+    were marketed by direct mail and reach large sectors of the population.
+
+- title: immigrants
+  era: iv
+  religious: false
+  events: [crisis, famine]
+  event_name: pogroms
+  eurekas: [demagogue]
+  requirements: []
+  id: BO.087
+  top:
+    discipline: culture
+    actions: [spread, art, pseudoscience]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [spread, artisan, science]
+    dissent: false
+  caption: Albert Einstein, emigrated 1922
+  body: >
+    Industrious peoples suffering persecution or lack of opportunity flock to
+    lands where freedom and individual rights are respected.

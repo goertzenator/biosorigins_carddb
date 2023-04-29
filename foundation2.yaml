@@ -1,0 +1,460 @@
+
+- title: internal monologue
+  era: ii
+  religious: false
+  events: [crisis,zoonotic disease]
+  event_name: smallpox
+  eurekas: [abstraction]
+  requirements: [2information]
+  id: BO.024
+  top:
+    discipline: culture
+    actions: [abstraction, exogamy]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [prayer, abstraction, 3information]
+    dissent: false
+  caption: H. sapiens, 20 kya
+  body: >
+    “A secret theater of speechless monologue and prevenient counsel, and
+    invisible mansion of all moods, musings, and mysteries, an infinite resort
+    of disappointments and discoveries...” -Julian Jaynes
+
+- title: chthonic shamanism
+  era: ii
+  religious: true
+  events: [warming,crowd disease]
+  event_name: scarlet fever
+  eurekas: [encephalize]
+  requirements: []
+  id: BO.025
+  top:
+    discipline: culture
+    actions: [prayer, encephalize, preach]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [abstraction, prayer>chaos]
+    dissent: false
+  caption: Vinča culture, 9 kya
+  body: >
+    The elaborate Old European ceremonial structure centered around a
+    parthenogenetic Earth Goddess, symbolizing the cycles of the seasons and
+    birth and death.
+
+
+- title: syllabary
+  era: ii
+  religious: false
+  events: [forestation,crowd disease]
+  event_name: diphtheria
+  eurekas: [3information]
+  requirements: [2information]
+  id: BO.026
+  top:
+    discipline: culture
+    actions: [prayer, abstraction, preach]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [abstraction, 4information]
+    dissent: false
+  caption: Aki's Yi syllabary, 618 CE
+  body: >
+    These written symbols represent the syllables which one hears in spoken
+    words. These graphics comprise the vocabulary of hierarchical concepts in a
+    syntactic language.
+
+- title: steles
+  era: ii
+  religious: false
+  events: [deforestation,catastrophe]
+  event_name: kuril-kamchatka clathrate
+  eurekas: [2information]
+  requirements: []
+  id: BO.027
+  top:
+    discipline: culture
+    actions: [spread, prayer, abstraction, preach]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [abstraction, spread]
+    dissent: true
+  caption: K'ak' Yipyaj Chan K'awiil, 755 CE
+  body: >
+    The way these epiphanous stone markers were attacked, defended, and smashed
+    indicated that is not humans who rule, but the hallucinated voices of the
+    gods.
+
+- title: barter reciprocity
+  era: ii
+  religious: false
+  events: [deforestation,zoonotic disease]
+  event_name: influenza
+  eurekas: [abstraction]
+  requirements: []
+  id: BO.028
+  top:
+    discipline: industry
+    actions: [3information,1maritime,trade]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [spread, exogamy, prospect>2maritime]
+    dissent: true
+  caption: Great Zimbabwe, 300 CE
+  body: >
+    The immediate exchange of goods or labor, without a future expectation of
+    benefit, is seen in the neolithic long range exchange of obsidian,
+    seashells and ostrich shells.
+
+- title: cleromancy
+  era: ii
+  religious: true
+  events: [forestation,pollution]
+  event_name: wood fire pollution
+  eurekas: [encephalize]
+  requirements: []
+  id: BO.029
+  top:
+    discipline: culture
+    actions: [prayer]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [prayer, abstraction]
+    dissent: false
+  caption: I Ching of Shang dynasty, 1100 BCE
+  body: >
+    As the hallucinated presence of the gods faltered, humans resorted to the
+    castings of lots or the interpretation of cracked bones to provoke the gods
+    to answer questions.
+
+- title: marriage
+  era: ii
+  religious: true
+  events: [forestation,crowd disease]
+  event_name: syphilis
+  eurekas: [4energy]
+  requirements: []
+  id: BO.030
+  top:
+    discipline: culture
+    actions: [2footprint,spread,enslave]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [spread,domesticate>2footprint]
+    dissent: true
+  caption: Roman key ring, 2 kya
+  body: >
+    The cognitive and physiological components to human sexual attraction
+    transcend simple pro-creation. Ceremonial marital contracts blessed by the
+    gods appear in the Homeric Epics.
+
+- title: taboos
+  era: ii
+  religious: true
+  events: [deforestation,crowd disease]
+  event_name: 8.2 kya aridification
+  eurekas: [encephalize]
+  requirements: []
+  id: BO.031
+  top:
+    discipline: culture
+    actions: [enslave,prayer]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [abstraction,prayer>chaos]
+    dissent: true
+  caption: Harappan civilization, 8.2 kya
+  body: >
+    Implicit prohibitions restricting behavior exist in all societies, often
+    without any objective basis. They may preserve tribal identity against
+    cultural diffusion.
+
+- title: angels & demons
+  era: ii
+  religious: true
+  events: [cooling,catastrophe]
+  event_name: kikai eruption
+  eurekas: [abstraction]
+  requirements: []
+  id: BO.032
+  top:
+    discipline: culture
+    actions: [enslave,preach,prayer]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [prayer>chaos]
+    dissent: false
+  caption: Demi-God Apkallu of Ur, 4.1 kya
+  body: >
+    The sudden appearance of human-bird messengers, both benevolent and
+    malevolent, indicate appeals to resume contact with the now silent
+    hallucinated voices of the gods.
+
+- title: idols
+  era: ii
+  religious: true
+  events: [deforestation, famine]
+  event_name: 4.2 kya aridification
+  eurekas: [abstraction]
+  requirements: []
+  id: BO.033
+  top:
+    discipline: culture
+    actions: [enslave,preach,prayer]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [2information,prayer]
+    dissent: false
+  caption: Anubis Idol, 4.2 kya
+  body: >
+    In preliterate societies, hand-held figurines with exaggerated features may
+    be interpreted as mnemonic devices to retrieve admonitory experiences of
+    authority figures.
+
+- title: heroic legends
+  era: ii
+  religious: true
+  events: [cooling, zoonotic disease]
+  event_name: diphtheria
+  eurekas: [1maritime]
+  requirements: []
+  id: BO.034
+  top:
+    discipline: industry
+    actions: [abstraction, prayer, enslave, war]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [spread, war>2maritime]
+    dissent: true
+  caption: Demigod Gilgamesh of Sumeria, 4.7 kya
+  body: >
+    A recurring theme in oral storytelling from the Odyssey to Harry Potter is
+    the hero's quest: a demigod must fight his way to salvation.
+
+- title: cult object
+  era: ii
+  religious: true
+  events: [deforestation, pollution]
+  event_name: ice-rafting bond event
+  eurekas: [prayer]
+  requirements: []
+  id: BO.035
+  top:
+    discipline: culture
+    actions: [preach,prayer,encephalize]
+    dissent: true
+  bottom:
+    discipline: industry
+    actions: [racism,prayer,abstraction]
+    dissent: true
+  caption: Arc of the Covenant, 1487 BCE
+  body: >
+    Gods were often perceived as hallucinated voices from a burning bush, a
+    cloud, or a huge pillar of fire. Sometime the sacred commands were
+    inscribed upon tablets hidden in a chest.
+
+- title: oracles
+  era: ii
+  religious: true
+  events: [cooling, catastrophe]
+  event_name: thera eruption
+  eurekas: [prayer]
+  requirements: []
+  id: BO.036
+  top:
+    discipline: culture
+    actions: [encephalize, preach]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [war>2maritime,prayer>chaos]
+    dissent: true
+  caption: Delphic Oracles, 510 BCE
+  body: >
+    When personal gods proved inadequate, all important decisions were made by
+    hallucinating farm girls trained in a psychological state to rule ancient
+    Greece.
+
+- title: federalism
+  era: ii
+  religious: false
+  events: [forestation, zoonotic disease]
+  event_name: anthrax
+  eurekas: [1maritime]
+  requirements: []
+  id: BO.037
+  top:
+    discipline: industry
+    actions: [encephalize, spread, prospect]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [spread, enslave, abstraction]
+    dissent: true
+  caption: Kudu-Naljimta of Susa, 2285 BCE
+  body: >
+    A form of government with a division of powers between sets of governors of
+    equal status with strict rules of succession.
+
+- title: city-state
+  era: ii
+  religious: false
+  events: [warming, famine]
+  event_name: neolithic subpluvial
+  eurekas: [4energy]
+  requirements: [2footprint]
+  id: BO.038
+  top:
+    discipline: culture
+    actions: [spread, domesticate, prospect]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [spread, prospect, trade, cultivate>3footprint]
+    dissent: false
+  caption: Sargon of Akkad, 2284 BCE
+  body: >
+    Cities exist for trade, and under the relative freedom of Sargon, Akkadian
+    merchants established a f ree trade area from the Nile to the Indus.
+
+- title: palace redistribution
+  era: ii
+  religious: false
+  events: [crisis, pollution]
+  event_name: sanitation pollution
+  eurekas: [2footprint]
+  requirements: []
+  id: BO.039
+  top:
+    discipline: culture
+    actions: [domesticate, prospect, enslave]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [1maritime,war,prayer>chaos]
+    dissent: true
+  caption: Khmer priest Divakarapandita, 1120 CE
+  body: >
+    An economy where much of the wealth generated by the populace flows into
+    the control of a centralized administration, the palace, and out from there
+    back to the populace.
+
+- title: satrapy
+  era: ii
+  religious: false
+  events: [warming, zoonotic disease]
+  event_name: rinderpest
+  eurekas: [1maritime]
+  requirements: [2footprint]
+  id: BO.040
+  top:
+    discipline: industry
+    actions: [domesticate,cultivate>3footprint]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [spread,enslave,abstraction]
+    dissent: true
+  caption: median empire, 800 BCE
+  body: >
+    Regional governors, known as Satraps in Assyria, are under the thumb of the
+    royals or hegemonies they represent.
+
+- title: law code
+  era: ii
+  religious: false
+  events: [warming, zoonotic disease]
+  event_name: pertussis
+  eurekas: [3information]
+  requirements: []
+  id: BO.041
+  top:
+    discipline: industry
+    actions: [abstraction, exogamy]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [prayer,constitution]
+    dissent: false
+  caption: Hammurabi of Babylonia, 1792 BCE
+  body: >
+    The first written laws were not enforced by police, but by their
+    authenticity as engraved on a sacred stela.
+
+- title: megalithic tombs
+  era: ii
+  religious: true
+  events: [forestation, catastrophe]
+  event_name: storegga tsunami
+  eurekas: [prayer]
+  requirements: []
+  id: BO.042
+  top:
+    discipline: culture
+    actions: [2footprint, preach,prayer>domesticate]
+    dissent: false
+  bottom:
+    discipline: politics
+    actions: [abstraction,preach,war>1maritime]
+    dissent: true
+  caption: Stonehenge, 5kya
+  body: >
+    The ancients spent more time on mortuary monuments than on their own homes
+    and palaces. This reflects the need for physical signs to remember the
+    lessons of the dead.
+
+- title: god-king theocracy
+  era: ii
+  religious: true
+  events: [crisis,rightist]
+  event_name: rightist pharoh
+  eurekas: [2metallurgy,purge]
+  requirements: []
+  id: BO.043
+  top:
+    discipline: culture
+    actions: [prayer>domesticate]
+    dissent: true
+  bottom:
+    discipline: politics
+    actions: [2footprint,prayer,enslave,war>1maritime]
+    dissent: true
+  caption: Khufu of the Old Kingdom, 2560 BCE
+  body: >
+    According to the Osiris myth, the dead king becomes a living god in an
+    elaborate god-house, and his priest takes the role as successor, still
+    hallucinating the commands of the dead king.
+
+- title: animism
+  era: ii
+  religious: true
+  events: [cooling,crowd disease]
+  event_name: typhoid
+  eurekas: [abstraction]
+  requirements: []
+  id: BO.044
+  top:
+    discipline: culture
+    actions: [pseudoscience,prayer>3footprint]
+    dissent: false
+  bottom:
+    discipline: industry
+    actions: [racism, prayer]
+    dissent: false
+  caption: Ghana Empire, 700CE
+  body: >
+    Belief in polytheistic personal gods can lapse into schizophrenic "hearing
+    of voices". This explains the fear and hatred that monotheists traditionally
+    feel towards witchcraft and sorcery.
+
+

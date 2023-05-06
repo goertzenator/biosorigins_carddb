@@ -35,3 +35,131 @@
     Painted paddles recovered from a Danish fjord suggests the predecessor to
     the famed Viking longships were galleys built by coastal fisher-farmers of
     the Ertebølle culture.
+
+- title: irrigation
+  era: ii
+  discipline: politics
+  eurekas: [4energy]
+  requirements: [work animal]
+  id: B0.123
+  top:
+    discipline: politics
+    actions: [5energy,domesticate,cultivate>3footprint]
+  bottom:
+    discipline: culture
+    actions: [abstraction,cultivate>4footprint]
+  caption: Ubaid Sumerian state, 8 kya
+  body: >
+    The Ubaids of the Persian Gulf developed ways to grow grain in bad weather
+    conditions. Digging of long ditches required a central authority to settle
+    property disputes.
+
+- title: daubed graneries
+  era: ii
+  discipline: politics
+  eurekas: [abstraction]
+  requirements: [menopause]
+  id: B0.124
+  top:
+    discipline: politics
+    actions: [5energy,domesticate,cultivate>3footprint]
+  bottom:
+    discipline: culture
+    actions: [domesticate,cultivate>4footprint]
+  caption: Jerico sedentary, 10 kya
+  body: >
+    Before pottery, agriculture centers in the Jordan Valley stored grain in
+    tiny circular mud brick dwellings with raised floors to allow circulation
+    and discourage insects.
+
+- title: concrete aqueducts
+  era: ii
+  discipline: politics
+  eurekas: [4immunology,cull1]
+  requirements: [2footprint]
+  id: B0.125
+  top:
+    discipline: industry
+    actions: [5energy,abstraction,artisan,cultivate>3footprint]
+  bottom:
+    discipline: politics
+    actions: [prospect,cultivate>4footprint]
+  caption: Roman Empire, 2.3 kya
+  body: >
+    Concrete made from quicklime, pozzolana, and volcanic ash was a
+    revolutionary material that allowed arches, domes, vaults, & waterways,
+    free of the internal strains that troubled earlier structures of brick or
+    stone.
+
+- title: adobe-brick architecture
+  era: ii
+  discipline: politics
+  eurekas: [abstraction,cull1]
+  requirements: [menopause]
+  id: B0.126
+  top:
+    discipline: politics
+    actions: [artisan,cultivate>3footprint]
+  bottom:
+    discipline: culture
+    actions: [abstraction,cultivate>2footprint]
+  caption: Natufian sdentary, 12 kya
+  body: >
+    Starting in the preagricultural Levant, permanent walls & roofs,
+    specialized communal and ritual rooms, and other architectural innovations
+    responded to new social demands of sedentary life and a collective
+    authority.
+
+- title: syllabic script
+  era: ii
+  discipline: politics
+  eurekas: [3information,cull1]
+  requirements: [menopause]
+  id: B0.127
+  top:
+    discipline: politics
+    actions: [abstraction, war>4information]
+  bottom:
+    discipline: culture
+    actions: [3information, abstraction, preach]
+  caption: Shang Dynasty, 3.2 kya
+  body: >
+    A syllabary is a set of written symbols that represent the syllables or
+    moras which make up spoken words. An early example are script found on
+    oracle bones used in Chinese divination.
+
+- title: hieroglyphs
+  era: ii
+  discipline: politics
+  eurekas: [abstraction, cull1]
+  requirements: [menopause]
+  id: B0.128
+  top:
+    discipline: politics
+    actions: [3information, war>4information]
+  bottom:
+    discipline: culture
+    actions: [3information, preach]
+  caption: Egyptian Predynastic, 5.1 kya
+  body: >
+    The writing system of ancient Egypt combined logographic, syllabi and
+    alphabetic scripts. It combined words with proto-literate symbol systems.
+
+- title: mead brewing
+  era: ii
+  discipline: politics
+  eurekas: [2footprint]
+  requirements: [menopause]
+  id: B0.129
+  top:
+    discipline: politics
+    actions: [enslave,prayer,war>1maritime]
+  bottom:
+    discipline: culture
+    actions: [artisan,exogamy, prayer>domesticate]
+  caption: Bell Beaker Culture, 5.3 kya
+  body: >
+    Distinctive "beaker" pottery, designed for the consumption of alcoholic
+    beer and mead. Its rapid spread through Europe reflects either an invasion
+    of Indo-European beer-drinkers (Kurgan hypothesis), or perhaps the spread
+    of the vessels to preexisting cultures.

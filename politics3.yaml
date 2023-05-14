@@ -1,0 +1,163 @@
+- title: toll roads
+  era: iii
+  discipline: politics
+  eurekas: [2maritime, cull1]
+  requirements: [2information]
+  id: B0.151
+  top:
+    discipline: industry
+    actions: [artisan,prospect,trade>3maritime]
+  bottom:
+    discipline: politics
+    actions: [prospect,war>2maritime]
+  caption: Nabatean mercantile, 400 BCE
+  body: >
+    The taxation of trade caravans became a major source of royal revenues
+    such as at the trading city of Petra. In Roman times, control of the silk
+    road was seized by Parthian knights, and customs revenues along this route
+    is at the heart of the game Pax Renaissance.
+
+- title: mercenaries
+  era: iii
+  discipline: politics
+  eurekas: [3metallurgy, cull1]
+  requirements: [metal]
+  id: B0.152
+  top:
+    discipline: politics
+    actions: [war>4metallurgy]
+  bottom:
+    discipline: industry
+    actions: [enslave,3metallurgy]
+  caption: Italian condottieri, 1424 CE
+  body: >
+    Paying professionals to fight revolutionized warfare. Such armies were more
+    cohesive, had higher morale, and could stay in the field longer.
+
+- title: hoplite phalanx
+  era: iii
+  discipline: politics
+  eurekas: [3metallurgy, cull1]
+  requirements: [metal]
+  id: B0.153
+  top:
+    discipline: industry
+    actions: [prospect,enslave,war>3metallurgy]
+  bottom:
+    discipline: politics
+    actions: [enslave, war>3metallurgy]
+  caption: Macedonian empire, 346 BCE
+  body: >
+    A military battle formation, such as the phalanx of spearment used by
+    Alexander the Great, is a marvel of central planning, in which each
+    individual is subordinated to the whole.
+
+- title: trireme galley
+  era: iii
+  discipline: politics
+  eurekas: [2maritime, cull1]
+  requirements: [any]
+  id: B0.154
+  top:
+    discipline: culture
+    actions: [trade,enslave,3maritime]
+  bottom:
+    discipline: politics
+    actions: [enslave,war>3maritime]
+  caption: Phoenician sailors, 700 BCE
+  body: >
+    First developed as a merchant ship, then a warship, these were powered by
+    three tiers of rowers, They seldom ventured out of sight of land, due to
+    vulnerability to storms and need for frequent re-supply of fresh water.
+
+- title: the royal road
+  era: iii
+  discipline: politics
+  eurekas: [5energy, cull1]
+  requirements: [3footprint]
+  id: B0.155
+  top:
+    discipline: culture
+    actions: [artisan,prospect,preach,trade]
+  bottom:
+    discipline: politics
+    actions: [war,enslave>3maritime]
+  caption: Darius I of Persia, 486 BCE
+  body: >
+    The 2700km road from Susa, Babylonia to Sardis, Anatolia provided the
+    cohesion that successively bound the Assyrian, Persian (Achaemenid), and
+    Roman empires. Herodotus noted that nothing in the world traveled
+    faster than Persian couriers.
+
+- title: saddle & stirrups
+  era: iii
+  discipline: politics
+  eurekas: [5energy, cull1]
+  requirements: [war animal]
+  id: B0.156
+  top:
+    discipline: politics
+    actions: [enslave,war,domesticate]
+  bottom:
+    discipline: culture
+    actions: [enslave,domesticate>3footprint]
+  caption: Scythian nomads, 90 BCE
+  body: >
+    Saddles, and 2 centuries later the stirrup, allowed a new specialized style
+    of fighting allowing a horseman to wield a lance or club without unhorsing
+    himself.
+
+- title: dharma
+  era: iii
+  discipline: politics
+  eurekas: [prayer, cull1]
+  requirements: [2information]
+  id: B0.157
+  top:
+    discipline: culture
+    actions: [abstraction, preach]
+  bottom:
+    discipline: politics
+    actions: [trade, library]
+  caption: Asoka of the Magadha State, 250 BCE
+  body: >
+   Dharma is the order that makes life and universe possible and includes the
+   duties, rights, laws, conduct, virtues and "right way of living" under
+   Hinduism, Buddhism, Jainism, & Sikhism.
+
+- title: parliament
+  era: iii
+  discipline: politics
+  eurekas: [demagogue]
+  requirements: [menopause]
+  id: B0.158
+  top:
+    discipline: culture
+    actions: [constitution, prayer>pseudoscience]
+  bottom:
+    discipline: politics
+    actions: [constitution,artisan,abstraction]
+  caption: English Model Parliament, 1295 CE
+  body: >
+    A legislative body with some degree of power to which the throne had to
+    defer. It represents the electorate, makes laws, and oversees the other
+    branches of government via hearings and inquiries.
+
+- title: firearms
+  era: iii
+  discipline: politics
+  eurekas: [4metallurgy, cull1]
+  requirements: [2metallurgy]
+  id: B0.159
+  top:
+    discipline: politics
+    actions: [prospect,enslave,war>5metallurgy]
+  bottom:
+    discipline: industry
+    actions: [prospect,enslave,war>4metallurgy]
+  caption: Chinese fire lance, 1200 CE
+  body: >
+    The martial use of gunpowder began in a small pyrotechnic device attached
+    to a spear. This Chinese fire lance caused shock at the start of a melee.
+    During the 100 Years' War the Age of Gunpowder started, eventually making
+    fortifications, plate armor, and swords obsolete.

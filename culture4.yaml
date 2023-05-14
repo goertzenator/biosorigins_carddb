@@ -9,7 +9,7 @@
     actions: [spread,trade,prospect>8footprint]
   bottom:
     discipline: industry
-    actions: [prospectluxury,artisan,trade>5maritime]
+    actions: [prospect luxury,artisan,trade>5maritime]
   caption: Sam Walton, 1962
   body: >
     The idea of high variety stores with self-service, separate product
@@ -100,7 +100,7 @@
     actions: [artisan, trade>5maritime]
   bottom:
     discipline: culture
-    actions: [prospectmetal,artisan,prayer,pseudoscience]
+    actions: [prospect metal,artisan,prayer,pseudoscience]
   caption: Walt Disney, 1937
   body: >
     From the Löwenmensch to Mickey Mouse, verbal humans often think of the
@@ -155,7 +155,7 @@
   id: B0.196
   top:
     discipline: culture
-    actions: [prospectmetal,artisan,preach,prayer]
+    actions: [prospect metal,artisan,preach,prayer]
   bottom:
     discipline: industry
     actions: [spread,art,artisan,trade>5maritime]

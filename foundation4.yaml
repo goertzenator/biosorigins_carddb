@@ -56,7 +56,7 @@
     dissent: true
   bottom:
     discipline: politics
-    actions: [preach, racism, coldwar]
+    actions: [preach, racism, cold war]
     dissent: true
   caption: Mexico's one party system, 1929
   body: >
@@ -117,7 +117,7 @@
   id: BO.071
   top:
     discipline: culture
-    actions: [coldwar, prayer>demagogue]
+    actions: [cold war, prayer>demagogue]
     dissent: true
   bottom:
     discipline: politics
@@ -159,7 +159,7 @@
   id: BO.073
   top:
     discipline: culture
-    actions: [spread, coldwar, abstraction]
+    actions: [spread, cold war, abstraction]
     dissent: false
   bottom:
     discipline: industry
@@ -251,7 +251,7 @@
     dissent: true
   bottom:
     discipline: politics
-    actions: [coldwar, enslave>8maritime]
+    actions: [cold war, enslave>8maritime]
     dissent: false
   caption: Dutch East India Co., 1602
   body: >
@@ -269,11 +269,11 @@
   id: BO.078
   top:
     discipline: culture
-    actions: [coldwar, elect, prayer>pseudoscience]
+    actions: [cold war, elect, prayer>pseudoscience]
     dissent: false
   bottom:
     discipline: politics
-    actions: [coldwar, enslave>8maritime]
+    actions: [cold war, enslave>8maritime]
     dissent: true
   caption: Joseph Stalin, 1934
   body: >
@@ -382,7 +382,7 @@
     dissent: false
   bottom:
     discipline: politics
-    actions: [abstraction, spread, coldwar]
+    actions: [abstraction, spread, cold war]
     dissent: false
   caption: Leo Burnett, 1935
   body: >

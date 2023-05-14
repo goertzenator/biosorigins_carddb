@@ -129,10 +129,10 @@
   id: B0.095
   top:
     discipline: politics
-    actions: [5energy,artisan,prospectmetal>3metallurgy]
+    actions: [5energy,artisan,prospect metal>3metallurgy]
   bottom:
     discipline: culture
-    actions: [prospectmetal>3metallurgy]
+    actions: [prospect metal>3metallurgy]
   caption: Ahrensburg culture, 13 kya
   body: >
     Earthen pits lined with stones and warmed with hot coals were used to cook
@@ -178,7 +178,7 @@
 - title: hallucinogens
   era: i
   discipline: politics
-  eurekas: [prayers]
+  eurekas: [prayer]
   requirements: [menopause]
   id: B0.098
   top:

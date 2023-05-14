@@ -38,7 +38,7 @@
   era: ii
   discipline: culture
   eurekas: [3footprint]
-  requirements: [workanimal]
+  requirements: [work animal]
   id: B0.132
   top:
     discipline: politics
@@ -79,10 +79,10 @@
   id: B0.134
   top:
     discipline: politics
-    actions: [prospect, prospectmetal>3metallurgy]
+    actions: [prospect, prospect metal>3metallurgy]
   bottom:
     discipline: culture
-    actions: [artisan, prospect, prospectmetal>3metallurgy]
+    actions: [artisan, prospect, prospect metal>3metallurgy]
   caption: Hurrian, 3.3 kya
   body: >
     The agricultural Hurrians of northern Mesopotamia were master ceramists,
@@ -93,7 +93,7 @@
   era: ii
   discipline: culture
   eurekas: [abstraction]
-  requirements: [workanimal]
+  requirements: [work animal]
   id: B0.136
   top:
     discipline: politics

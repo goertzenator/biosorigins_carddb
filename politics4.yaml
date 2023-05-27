@@ -1,0 +1,183 @@
+- title: broadcasting
+  era: iv
+  discipline: politics
+  eurekas: [demagogue]
+  requirements: [biofuel, oil]
+  id: B0.178
+  top:
+    discipline: culture
+    actions: [prayer>demagogue,trade>6information]
+  bottom:
+    discipline: politics
+    actions: [6information,art,elect]
+  caption: David Sarnoff of RCA, 1930
+  body: >
+    The age of distributing electronic information to distributed audiences
+    started with the telegraph (1832), and spread to telephone (1881), radio
+    (1920), television (1930), cable (1932), satellite (1974), and webcasting
+    (1994).
+
+- title: broadcasting
+  era: iv
+  discipline: politics
+  eurekas: [7energy,cull2]
+  requirements: [oil]
+  id: B0.179
+  top:
+    discipline: culture
+    actions: [artisan, prospect>8energy]
+  bottom:
+    discipline: politics
+    actions: [spread, 5maritime, prospect>8energy]
+  caption: John D. Rockefeller of Standard Oil, 1870
+  body: >
+    Cheap oil refining techniques developed by penniless entrepreneur John
+    Rockefeller allowed even the poor to illuminate their homes with kerosene
+    lamps and made the USA into a major economic nation.
+
+- title: aerospace industry
+  era: iv
+  discipline: politics
+  eurekas: [8maritime, cull3]
+  requirements: [uranium]
+  id: B0.180
+  top:
+    discipline: culture
+    actions: [8maritime,artisan,library]
+  bottom:
+    discipline: politics
+    actions: [8energy,8maritime,prospect,invent]
+  caption: Howard Hughes, 1956
+  body: >
+    With the 1957 launch of Sputnik, flight technology advanced into outer
+    space. The goal of astronautics is exoglobalization, the advancement of the
+    human potential to include the unique environments outside of Planet Earth.
+
+- title: power companies
+  era: iv
+  discipline: politics
+  eurekas: [7energy, cull2]
+  requirements: [oil,uranium]
+  id: B0.181
+  top:
+    discipline: industry
+    actions: [8maritime,8energy,artisan,prospect]
+  bottom:
+    discipline: politics
+    actions: [spread,8energy,prospect]
+  caption: Westinghouse-Tesla AC power grid, 1886
+  body: >
+    The Tesla induction motor patent generated AC electric power allowing an
+    integrated AC transmission system, which prevailed over the rival Edison DC
+    system. The original private power companies have been nationalized in many
+    countries.
+
+- title: vaccinations
+  era: iv
+  discipline: politics
+  eurekas: [6immunology, cull2]
+  requirements: [4immunology]
+  id: B0.182
+  top:
+    discipline: industry
+    actions: [8immunology,6footprint,science,cultivate]
+  bottom:
+    discipline: politics
+    actions: [spread,8immunology,library]
+  caption: Louis Pasteur, 1880
+  body: >
+    A vaccine is an administered antigenetic material that stimulates a
+    person's adaptive immune system (found in vertebrates), which confers
+    immunity for life and herd immunity if enough people get inoculated.
+
+- title: police
+  era: iv
+  discipline: politics
+  eurekas: [demagogue]
+  requirements: [any]
+  id: B0.183
+  top:
+    discipline: politics
+    actions: [spread, constitution, artisan]
+  bottom:
+    discipline: culture
+    actions: [artisan, racism]
+  caption: Eugène Vidocq of the Surete Nationale, 1829
+  body: >
+    A constituted institution with the monopoly of power to enforce certain
+    rules of social conduct. At its best, it maintains order by defending the
+    natural rights of each individual. At its worst, it is an arm of a
+    totalitarian state.
+
+- title: natural rights
+  era: iv
+  discipline: politics
+  eurekas: [abstraction]
+  requirements: []
+  id: B0.184
+  top:
+    discipline: industry
+    actions: [constitution, artisan]
+  bottom:
+    discipline: politics
+    actions: [demagogue, elect]
+  caption: John Locke, 1689
+  body: >
+    Moral principles are those that are dependent on the nature of man and not
+    on any culture or government. Locke discovered that among these inalienable
+    truths are life, liberty and property.
+
+- title: contraceptives
+  era: iv
+  discipline: politics
+  eurekas: [demagogue]
+  requirements: [4immunology]
+  id: B0.185
+  top:
+    discipline: culture
+    actions: [demagogue]
+  bottom:
+    discipline: politics
+    actions: [spread, 8immunology]
+  caption: Endocrinologist Gregory Pincus, 1954
+  body: >
+    Margaret Sanger, an activist for "Planned Parenthood", sponsored the
+    development of the first oral contraceptive nicknamed "The Pill". This
+    would revolutionize a woman's control over her own body, with far-reaching
+    societal effects.
+
+- title: patents
+  era: iv
+  discipline: politics
+  eurekas: [invent]
+  requirements: []
+  id: B0.186
+  top:
+    discipline: politics
+    actions: [artisan, library]
+  bottom:
+    discipline: industry
+    actions: [abstraction, science]
+  caption: Thomas Edison, 1880
+  body: >
+    Patents and copyrights are the legal protection of intellectual property:
+    one's right to the product of his mind. Inventions can be patented, but not
+    scientific or philosophical discoveries.
+
+- title: juries
+  era: iv
+  discipline: politics
+  eurekas: [abstraction]
+  requirements: []
+  id: B0.187
+  top:
+    discipline: culture
+    actions: [constitution]
+  bottom:
+    discipline: politics
+    actions: [library, elect]
+  caption: Alexis de Tocqueville, 1835
+  body: >
+    Trial by jury, as practiced in ancient Greece and Rome, is a form of
+    separation of powers. In today's Western World, the great majority of cases
+    are settled by plea bargain rather than by jury.

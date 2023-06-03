@@ -6,7 +6,7 @@
   id: B0.178
   top:
     discipline: culture
-    actions: [prayer>demagogue,trade>6information]
+    actions: [preach>demagogue,trade>6information]
   bottom:
     discipline: politics
     actions: [6information,art,elect]
@@ -61,7 +61,7 @@
   id: B0.181
   top:
     discipline: industry
-    actions: [8maritime,8energy,artisan,prospect]
+    actions: [8maritime,8footprint,artisan,prospect]
   bottom:
     discipline: politics
     actions: [spread,8energy,prospect]
@@ -135,7 +135,7 @@
   id: B0.185
   top:
     discipline: culture
-    actions: [demagogue]
+    actions: [artisan,art]
   bottom:
     discipline: politics
     actions: [spread, 8immunology]

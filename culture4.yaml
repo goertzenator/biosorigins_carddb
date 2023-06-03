@@ -60,7 +60,7 @@
   id: B0.191
   top:
     discipline: culture
-    actions: [6footprint,artisan,trade>8energy]
+    actions: [6footprint,spread,artisan,trade>8energy]
   bottom:
     discipline: politics
     actions: [6metallurgy,prospect,war>7energy]
@@ -100,7 +100,7 @@
     actions: [artisan, trade>5maritime]
   bottom:
     discipline: culture
-    actions: [prospect metal,artisan,prayer,pseudoscience]
+    actions: [prospect luxury,artisan,prayer,pseudoscience]
   caption: Walt Disney, 1937
   body: >
     From the Löwenmensch to Mickey Mouse, verbal humans often think of the

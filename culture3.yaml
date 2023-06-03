@@ -43,7 +43,7 @@
   id: B0.162
   top:
     discipline: industry
-    actions: [science,abstraction>6information]
+    actions: [science,abstraction>5information]
   bottom:
     discipline: culture
     actions: [pseudoscience, abstraction]

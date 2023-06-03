@@ -99,7 +99,7 @@
   id: B0.126
   top:
     discipline: politics
-    actions: [artisan,cultivate>3footprint]
+    actions: [artisan,domesticate>3footprint]
   bottom:
     discipline: culture
     actions: [abstraction,cultivate>2footprint]

@@ -61,7 +61,7 @@
   id: B0.102
   top:
     discipline: politics
-    actions: [encephalize,enslave,war>2information]
+    actions: [encephalize,enslave,2information]
   bottom:
     discipline: culture
     actions: [preach>chaos]

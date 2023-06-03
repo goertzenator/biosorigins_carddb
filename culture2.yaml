@@ -89,6 +89,24 @@
     and their wheel-made Khabur and Nuzi pottery was highly valued as far
     afield as the Egyptian New Kingdom.
 
+- title: swineherd
+  era: ii
+  discipline: culture
+  eurekas: [2footprint]
+  requirements: [menopause]
+  id: B0.135
+  top:
+    discipline: industry
+    actions: [domesticate, cultivate>3footprint]
+  bottom:
+    discipline: culture
+    actions: [domesticate, cultivate>3footprint]
+  caption: Xia dynasty, 13.4 kya
+  body: >
+    Although there are many wild pig species, only Sus scrofa has been
+    domesticated. DNA studies show two domestication events, one in Middle East
+    and another in China, and both by hunter-gatherers.
+
 - title: breadmaking
   era: ii
   discipline: culture

@@ -1,0 +1,186 @@
+- title: airline industry
+  era: iv
+  discipline: industry
+  eurekas: [8energy,cull3]
+  requirements: [oil,uranium]
+  id: B0.197
+  top:
+    discipline: politics
+    actions: [prospect luxury>8maritime,trade>8energy]
+  bottom:
+    discipline: industry
+    actions: [spread,8maritime,5metallurgy,artisan]
+  caption: Juan Trippe of Pan American, 1936
+  body: >
+    The introduction of trans-Pacific clippers resulted in the greatest
+    realignment of trade route since the invention of the carrack. Other
+    innovations included cabin pressurization, the jet age, and jumbo jets.
+
+- title: interchangeable parts
+  era: iv
+  discipline: industry
+  eurekas: [invent,cull3]
+  requirements: [3metallurgy]
+  id: B0.198
+  top:
+    discipline: culture
+    actions: [artisan,prospect>6metallurgy]
+  bottom:
+    discipline: industry
+    actions: [5maritime,trade>6metallurgy]
+  caption: American System of Manufacturing, 1851
+  body: >
+    The extensive use of interchangeable parts and mechanization for
+    production, which resulted in more efficient use of labor compared to hand
+    methods. The parts were made with machine tool and jigs to a tolerance that
+    allowed for assembly using semi-skilled labor.
+
+- title: automobile
+  era: iv
+  discipline: industry
+  eurekas: [7energy,cull3]
+  requirements: [oil,uranium]
+  id: B0.199
+  top:
+    discipline: culture
+    actions: [spread,artisan,prospect>8energy]
+  bottom:
+    discipline: industry
+    actions: [5maritime,8energy,trade]
+  caption: Henry Ford, 1908
+  body: >
+    The automobile has become the preferred vehicle throughout the world,
+    starting with cheap Fords in 1920's America. This cleaned up the formerly
+    manure-clogged city streets and led to the development of fast food and
+    suburbia.
+
+- title: vulcanization
+  era: iv
+  discipline: industry
+  eurekas: [invent,cull2]
+  requirements: [4metallurgy]
+  id: B0.200
+  top:
+    discipline: industry
+    actions: [artisan,prospect>science,trade>7energy]
+  bottom:
+    discipline: politics
+    actions: [spread,7energy,prospect>6metallurgy]
+  caption: Charles Goodyear, 1844
+  body: >
+    Chemical processes used to harden natural rubber by crosslinking with
+    sulfur revolutionized the industrial world. Vulcanization has grown to
+    include the hardening of synthetic rubbers via various means.
+
+- title: analytical engine
+  era: iv
+  discipline: industry
+  eurekas: [invent,cull2]
+  requirements: []
+  id: B0.201
+  top:
+    discipline: culture
+    actions: [abstraction,library,artisan]
+  bottom:
+    discipline: industry
+    actions: [science,trade>8maritime]
+  caption: Charles Babbage, 1842
+  body: >
+    Although a mechanical general-purpose computer incorporating an arithmetic
+    logic unit, conditional branching and loops, and integrated memory was
+    designed in 1842, it was not until the late 1940s that the first
+    general-purpose computers were actually built.
+
+- title: integrated circuits
+  era: iv
+  discipline: industry
+  eurekas: [6information]
+  requirements: [biofuel,oil,uranium]
+  id: B0.202
+  top:
+    discipline: industry
+    actions: [6information,artisan,science]
+  bottom:
+    discipline: politics
+    actions: [7energy,6information]
+  caption: Robert Noyce of Fairchild, 1957
+  body: >
+    The integration of large numbers of tiny semiconductor transistors into a
+    small chip results in circuits that are orders of magnitude smaller,
+    cheaper, and faster than those constructed of discrete electronic
+    components.
+
+- title: iron & aluminum smelting
+  era: iv
+  discipline: industry
+  eurekas: [6metallurgy]
+  requirements: [metal,oil,uranium]
+  id: B0.203
+  top:
+    discipline: industry
+    actions: [6metallurgy,artisan,science,prospect]
+  bottom:
+    discipline: politics
+    actions: [4maritime,prospect>7energy]
+  caption: Hall-Héroult Process
+  body: >
+    The Bessemer process (removing impurities from molten iron by oxidation
+    with air blasts) and the Hall-Héroult Process (purifying aluminum with
+    electricity and a cryolite catalyst) makes what once was precious metals
+    into inexpensive commodities.
+
+- title: steam engine
+  era: iv
+  discipline: industry
+  eurekas: [6energy,cull2]
+  requirements: [4metallurgy]
+  id: B0.204
+  top:
+    discipline: industry
+    actions: [7energy,artisan,prospect>6metallurgy]
+  bottom:
+    discipline: politics
+    actions: [3maritime,5metallurgy,prospect>7energy]
+  caption: Watt-Bouton Soho Engineering Works, 1768
+  body: >
+    Enlightenment inventors of the 18th century France and Scotland had the
+    intellectual foundations to launch the Industrial Revolution, but lacked
+    the needed commercial and financial complements. They went to England to
+    get financing for their ventures.
+
+- title: fast food
+  era: iv
+  discipline: industry
+  eurekas: [demagogue]
+  requirements: [4footprint]
+  id: B0.205
+  top:
+    discipline: culture
+    actions: [prospect luxury,artisan,trade>8footprint]
+  bottom:
+    discipline: industry
+    actions: [spread,artisan,trade>5maritime]
+  caption: Ray Kroc of McDonald's, 1961
+  body: >
+    Mass-produced food for commercial resale and with a priority placed on
+    speed of service. From street vendors to international franchises, this hs
+    become the world's primary source of human profit, both nutritional and
+    monetary.
+
+- title: keiretsu
+  era: iv
+  discipline: industry
+  eurekas: [demagogue]
+  requirements: [4footprint]
+  id: B0.206
+  top:
+    discipline: culture
+    actions: [artisan,library,trade>8energy]
+  bottom:
+    discipline: industry
+    actions: [artisan,trade>5maritime,prospect>6metallurgy]
+  caption: Akio Morita of Sony, 1955
+  body: >
+    Private business networks with interlocking shareholding and exchange have
+    become dominant in Asian Tigers such as Japan, where the prewar zaibatsu
+    conglomerates have been supplanted.

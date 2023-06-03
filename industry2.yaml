@@ -1,0 +1,179 @@
+- title: dragon kiln
+  era: ii
+  discipline: industry
+  eurekas: [3metallurgy]
+  requirements: [4energy]
+  id: B0.141
+  top:
+    discipline: industry
+    actions: [artisan,abstraction,prospect>3metallurgy]
+  bottom:
+    discipline: politics
+    actions: [prospect,war>4metallurgy]
+  caption: Chinese Daxi reverine, 4.5 kya
+  body: >
+    Long thin kilns fired with wood or coal can achieve the very high
+    temperatures necessary for high-fired wares. This Chinese invention
+    produced stoneware and porcelain that European potters could not duplicate.
+
+- title: loom weaving
+  era: ii
+  discipline: industry
+  eurekas: [abstraction]
+  requirements: [4energy]
+  id: B0.142
+  top:
+    discipline: industry
+    actions: [5energy,trade>3information]
+  bottom:
+    discipline: culture
+    actions: [artisan,trade>3maritime]
+  caption: Yangshao culture, 7 kya
+  body: >
+    Neolithic Chinese cultures wove hemp and silk, using looms to hold the warp
+    threads under tension to facilitate the interweaving of the weft threads.
+
+- title: archery
+  era: ii
+  discipline: industry
+  eurekas: [2metallurgy]
+  requirements: [war animal]
+  id: B0.143
+  top:
+    discipline: industry
+    actions: [war,prospect metal>3metallurgy]
+  bottom:
+    discipline: politics
+    actions: [abstraction,enslave,war]
+  caption: Arctic Small Tool Tradition, 4.5 kya
+  body: >
+    The bow and arrow replaced the atlatl around 12 kya and can launch its
+    projectile twice as fast and more silently.
+
+- title: ard plow
+  era: ii
+  discipline: industry
+  eurekas: [5energy]
+  requirements: [work animal]
+  id: B0.144
+  top:
+    discipline: industry
+    actions: [5energy,prospect,cultivate>3footprint]
+  bottom:
+    discipline: politics
+    actions: [domesticate,prospect,prospect metal>3metallurgy]
+  caption: Mesopotamian, 6 kya
+  body: >
+    Farm tools to prepare the soil for sowing, drawn by man or beast, were an
+    early application of metallurgy. One of the first was the ard, which had
+    no mouldboard to invert the soil.
+
+
+- title: sail & rudder
+  era: ii
+  discipline: industry
+  eurekas: [3maritime, cull1]
+  requirements: [4energy]
+  id: B0.145
+  top:
+    discipline: industry
+    actions: [3maritime,artisan,trade>5energy]
+  bottom:
+    discipline: politics
+    actions: [enslave,war>4maritime]
+  caption: Egyptian riverine, 6 kya
+  body: >
+    The Egyptians were the first known to lash planks together to form a hulled
+    boat. As many as 5 steering oars and a square-rigged sail helped guide the
+    vessel.
+
+- title: wheeled vehicles
+  era: ii
+  discipline: industry
+  eurekas: [5energy]
+  requirements: [war animal]
+  id: B0.146
+  top:
+    discipline: industry
+    actions: [6energy,trade>3metallurgy]
+  bottom:
+    discipline: culture
+    actions: [enslave,war>4footprint]
+  caption: Sintashta-Petrovka culture, 4 kya
+  body: >
+    Ox carts appeared in central Asia, allowing for a mobilized pastoralism,
+    and soon chariot incursions into Europe.
+
+- title: forge
+  era: ii
+  discipline: industry
+  eurekas: [2metallurgy]
+  requirements: [4energy]
+  id: B0.147
+  top:
+    discipline: industry
+    actions: [5energy,abstraction, prospect metal>3metallurgy]
+  bottom:
+    discipline: culture
+    actions: [artisan,prospect,prospect metal>3metallurgy]
+  caption: Yamnaya Indo-European, 5.3 kya
+  body: >
+    The Bronze Age started in Sumer but was hampered by a scarcity of tin. When
+    bronze weapons and status symbols spread north to the pastoral nomads of
+    the steppes, the new martial Yamnaya culture was born, conquering all of
+    Europe.
+
+- title: accounting tokens
+  era: ii
+  discipline: industry
+  eurekas: [3information, cull1]
+  requirements: [menopause]
+  id: B0.148
+  top:
+    discipline: industry
+    actions: [abstraction,trade>4information]
+  bottom:
+    discipline: politics
+    actions: [library, abstraction]
+  caption: Sumerian bulla-envelope, 5.7 kya
+  body: >
+    Bullae were hollow spherical clay envelopes that contained other smaller
+    tokens that identified the quantity and types of goods being recorded.
+    Accountants are among the earliest specialists in the ancient world.
+
+- title: acrophony
+  era: ii
+  discipline: industry
+  eurekas: [3information, cull1]
+  requirements: [menopause]
+  id: B0.149
+  top:
+    discipline: industry
+    actions: [3information,trade>abstraction]
+  bottom:
+    discipline: politics
+    actions: [4information, abstraction]
+  caption: Phoenician alphabet, 3 kya
+  body: >
+    Each written letter in an alphabet represents a phoneme (basic significant
+    sound) that comprises part of a spoken word. The Phoenicians used an
+    acrophonic alphabet in which a letter's name begins with the letter itself.
+
+- title: nixtamal
+  era: ii
+  discipline: industry
+  eurekas: [2footprint]
+  requirements: [menopause]
+  id: B0.150
+  top:
+    discipline: industry
+    actions: [prospect, trade>2metallurgy]
+  bottom:
+    discipline: politics
+    actions: [artisan, cultivate>4footprint]
+  caption: Hohokam of Arizona, 700 CE
+  body: >
+    Most plants produce defensive pesticides and toxins, which herbal chemists
+    work to detoxify. Nixtamal (hominy) is maize kernels detoxified by boiling
+    kernels in water and lime, which were then ground on a quern to make
+    tortillas.

@@ -1,0 +1,200 @@
+- title: quern
+  era: i
+  discipline: industry
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: B0.110
+  top:
+    discipline: industry
+    actions: [artisan,2metallurgy]
+  bottom:
+    discipline: culture
+    actions: [cultivate>3footprint]
+  caption: Yellow River lacustrine, 23 kya
+  body: >
+    Paleolithic grinding stones indicate an incipient socio-economic process
+    that eventually led to the regional transition from hunting-foraging to
+    farming.
+
+- title: fire-stick farming
+  era: i
+  discipline: industry
+  eurekas: [2footprint]
+  requirements: [4energy]
+  id: B0.111
+  top:
+    discipline: industry
+    actions: [war,cultivate>3footprint]
+  bottom:
+    discipline: culture
+    actions: [domesticate]
+  caption: Austronesian hunter-gatherers, 50 kya
+  body: >
+    Aborigines of the Americas and Australia used fire to retool the landscape
+    favorable for elk, deer, bear, and kangaroo. This ecological management
+    changed dry forests into savannas and is the leading theory on what caused
+    the Pleistocene megafaunal extinctions.
+
+- title: adze dugout
+  era: i
+  discipline: industry
+  eurekas: [1maritime]
+  requirements: [menopause]
+  id: B0.112
+  top:
+    discipline: industry
+    actions: [encephalize,trade>2maritime]
+  bottom:
+    discipline: culture
+    actions: [artisan, encephalize]
+  caption: Jōmon culture, 13 kya
+  body: >
+    Reliable littoral food supplies in the Pacific Northwest, Japanese Jōmon,
+    and Ecuadorian Valdivia allowed high population densities and refined
+    cultures despite being hunter-gatherers. Fishing technology included dugout
+    canoes and paddles carved with stone adzes.
+
+- title: barkcloth beaters
+  era: i
+  discipline: industry
+  eurekas: [2information]
+  requirements: [menopause]
+  id: B0.113
+  top:
+    discipline: industry
+    actions: [artisan, exogamy, 4energy]
+  bottom:
+    discipline: politics
+    actions: [art, encephalize, 4energy]
+  caption: Hoabinhian tradition, 15 kya
+  body: >
+    Bark softened by pounding with stone tools can be made into barkcloth for
+    paper and clothing. The earliest bark beaters, from both the club and
+    racquet types, have been unearthed in SW Asia.
+
+- title: knife
+  era: i
+  discipline: industry
+  eurekas: [encephalize]
+  requirements: []
+  id: B0.114
+  top:
+    discipline: industry
+    actions: [art,4energy]
+  bottom:
+    discipline: politics
+    actions: [4energy,2information]
+  caption: Mousterian techno-complex, 160 kya
+  body: >
+    Mousterian refers to an industry associated with Neanderthals in Europe and
+    Sapiens in Africa to make flint handaxes, points, and racloirs (a type of
+    knife or scraper).
+
+- title: glue
+  era: i
+  discipline: industry
+  eurekas: [2footprint]
+  requirements: [4energy]
+  id: B0.115
+  top:
+    discipline: industry
+    actions: [art,abstraction]
+  bottom:
+    discipline: culture
+    actions: [encephalize]
+  caption: Neanderthal hafting, 50 kya
+  body: >
+    Points hafted with pyrotechnic pitch and birch bark glues seems to require
+    visualization of a range of different pre-processed parts, and so may have
+    been the first technology.
+
+- title: handaxe
+  era: i
+  discipline: industry
+  eurekas: [encephalize]
+  requirements: [menopause]
+  id: B0.116
+  top:
+    discipline: industry
+    actions: [art,encephalize]
+  bottom:
+    discipline: culture
+    actions: [artisan]
+  caption: Acheulean biface industry, 1800 kya
+  body: >
+    This tool remained unchanged for the vast majority of human existence,
+    although it does no seem to be any better for scraping, cutting, or
+    butchering than the flakes produced alongside it. It may have been used in
+    sexual selection or as a commodity.
+
+- title: flint firestarting
+  era: i
+  discipline: industry
+  eurekas: [4energy]
+  requirements: [menopause]
+  id: B0.117
+  top:
+    discipline: industry
+    actions: [art,prospect,artisan]
+  bottom:
+    discipline: politics
+    actions: [encephalize,prospect>5energy]
+  caption: Aterian blade technology, 100 kya
+  body: >
+    Percussion firemaking produces high temperature sparks by striking iron
+    pyrite or marcasite against flint. Ötzi the Iceman used a tinder fungus
+    that, if hammered flat, turns into something like felt that smolders for
+    hours, allowing fire transport.
+
+- title: raft
+  era: i
+  discipline: industry
+  eurekas: [1maritime]
+  requirements: [menopause]
+  id: B0.118
+  top:
+    discipline: industry
+    actions: [artisan,trade>2maritime]
+  bottom:
+    discipline: politics
+    actions: [encephalize,war>2maritime]
+  caption: Australo-Melanesian upper paleolithic, 60 kya
+  body: >
+    Bamboo rafts were possibly used to make landfall in Australia, a distance
+    of 70 km even at lowest sea levels. No further landings in Australia are
+    known for the next 35,000 years.
+
+- title: lamp
+  era: i
+  discipline: industry
+  eurekas: [prayer]
+  requirements: [4energy]
+  id: B0.119
+  top:
+    discipline: industry
+    actions: [art, 5energy]
+  bottom:
+    discipline: politics
+    actions: [encephalize,prospect]
+  caption: Lascaux Magdalenian, 17 kya
+  body: >
+    The oldest known stone-oil lamp burned tallow and was used to illuminate
+    cave paintings.
+
+- title: hammerstone
+  era: i
+  discipline: industry
+  eurekas: [encephalize]
+  requirements: []
+  id: B0.120
+  top:
+    discipline: industry
+    actions: [art]
+  bottom:
+    discipline: culture
+    actions: [encephalize]
+  caption: Australopithecus Lomekwi industry, 3300 kya
+  body: >
+    Prehistoric hammers create percussion fractures on another rock, creating
+    sharp-edged stone flakes from the second rock. Found throughout
+    Afro-Eurasia.

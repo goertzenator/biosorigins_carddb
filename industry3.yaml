@@ -1,0 +1,161 @@
+- title: glassblowing
+  era: iii
+  discipline: industry
+  eurekas: [5energy,cull1]
+  requirements: [4energy]
+  id: B0.169
+  top:
+    discipline: industry
+    actions: [prospect,trade,artisan]
+  bottom:
+    discipline: politics
+    actions: [4immunology,abstraction,prospect]
+  caption: Etruscan state, 900 BCE
+  body: >
+    A glass industry started in Italy in the late Bronze Age. The discovery
+    that molten glass could be inflated with a blowpipe coincided with the
+    growth of the Roman Empire.
+
+- title: soldering
+  era: iii
+  discipline: industry
+  eurekas: [5energy,cull1]
+  requirements: [metal]
+  id: B0.170
+  top:
+    discipline: culture
+    actions: [artisan,prospect>5metallurgy]
+  bottom:
+    discipline: industry
+    actions: [4metallurgy,6energy,prospect]
+  caption: Troy, 5 kya
+  body: >
+    The joining of metals by melting a filler material was mastered by the
+    goldsmiths of ancient Egypt and Troy. The golden age of soldering followed
+    with the discovery of tin as a soldering metal.
+
+- title: wind power
+  era: iii
+  discipline: industry
+  eurekas: [5energy,cull1]
+  requirements: [4energy]
+  id: B0.171
+  top:
+    discipline: culture
+    actions: [2maritime,artisan,cultivate>3footprint]
+  bottom:
+    discipline: industry
+    actions: [3maritime,trade,cultivate]
+  caption: England, 1185 CE
+  body: >
+    Sails have used to propel ships since the navigation of the Nile in ancient
+    Egypt. On land, the first known horizontal-axis windmills were used to
+    grind cereals.
+
+- title: sanitation
+  era: iii
+  discipline: industry
+  eurekas: [8immunology,cull1]
+  requirements: [biofuel]
+  id: B0.172
+  top:
+    discipline: industry
+    actions: [6energy,4metallurgy,artisan,prospect]
+  bottom:
+    discipline: politics
+    actions: [6energy,3metallurgy]
+  caption: Roman republic, 312 BCE
+  body: >
+    Plumbing for water supply, public baths, sewers, and swamp drainage in
+    ancient Rome was far advanced compared to other ancient cities.
+
+- title: steel fineries
+  era: iii
+  discipline: industry
+  eurekas: [4metallurgy,cull1]
+  requirements: [metal,biofuel]
+  id: B0.173
+  top:
+    discipline: industry
+    actions: [7energy,5metallurgy,artisan,prospect]
+  bottom:
+    discipline: politics
+    actions: [6footprint,6energy,prospect]
+  caption: Hallstatt Celts, 700 BCE
+  body: >
+    Cast iron was converted into malleable iron in charcoal hearths. This
+    introduced steel to Bronze Age Europe.
+
+- title: iron bloomeries
+  era: iii
+  discipline: industry
+  eurekas: [4metallurgy,cull1]
+  requirements: [metal,biofuel]
+  id: B0.174
+  top:
+    discipline: industry
+    actions: [7energy,5metallurgy,artisan,prospect]
+  bottom:
+    discipline: politics
+    actions: [6footprint,6energy,prospect]
+  caption: Hittite state secret, 1400 BCE
+  body: >
+    Early smelters, in which impurities in iron ore were pounded out followed
+    by a quench in cold water, were a state secret of the Indo-European
+    Hittites. Their monopoly of cheap iron weapons made them a superpower.
+
+- title: blast furnace
+  era: iii
+  discipline: industry
+  eurekas: [4metallurgy,cull1]
+  requirements: [metal,biofuel]
+  id: B0.175
+  top:
+    discipline: industry
+    actions: [7energy,5metallurgy,artisan,prospect]
+  bottom:
+    discipline: politics
+    actions: [4footprint,6energy,prospect]
+  caption: Chinese Ch'in dynasty, 221 BCE
+  body: >
+    Chinese blast furnaces produced cast iron, which was then either converted
+    into finished implements in a cupola furnace, or turned into wrought iron
+    in a fining hearth. The engineer Du Shi improved the design with a
+    waterwheel and piston-bellows providing the air blast.
+
+- title: iron ploughshare
+  era: iii
+  discipline: industry
+  eurekas: [4metallurgy,cull1]
+  requirements: [metal]
+  id: B0.176
+  top:
+    discipline: culture
+    actions: [artisan,cultivate>6footprint]
+  bottom:
+    discipline: industry
+    actions: [6energy,prospect,cultivate>4footprint]
+  caption: Nok culture, 350 BCE
+  body: >
+    Iron smelting was independently discovered in Nigeria's vanished Nok
+    culture, which skipped the Bronze Age to combine iron, stone age tools,
+    agriculture, and unique terracotta sculptures. The ploughshare caused a
+    population explosion when introduced into Europe.
+
+- title: levers & pulleys
+  era: iii
+  discipline: industry
+  eurekas: [invent,cull1]
+  requirements: [3information]
+  id: B0.177
+  top:
+    discipline: industry
+    actions: [5energy,science]
+  bottom:
+    discipline: politics
+    actions: [5maritime, encephalize, library]
+  caption: Archimedes of Syracuse, 212 BCE
+  body: >
+    The science of mechanics originated with Greek engineers, who developed
+    catapults, screws, block and tackle pulleys, and cranes.
+

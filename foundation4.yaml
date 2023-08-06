@@ -176,7 +176,7 @@
   era: iv
   religious: false
   events: [crisis, pollution]
-  event_name: euthrophication pollution
+  event_name: eutrophication pollution
   eurekas: [demagogue]
   requirements: [4footprint]
   id: BO.074

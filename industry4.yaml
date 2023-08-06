@@ -1,7 +1,7 @@
 - title: airline industry
   era: iv
   discipline: industry
-  eurekas: [8energy,cull3]
+  eurekas: [8maritime,cull3]
   requirements: [oil,uranium]
   id: B0.197
   top:
